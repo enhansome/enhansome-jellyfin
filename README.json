@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1009499810,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T11:58:39Z",
+                "last_commit": "2026-08-24T20:21:10Z",
                 "owner": "n00bcodr",
                 "repo": "Jellyfin-Enhanced",
-                "stars": 1685
+                "stars": 1686
               }
             },
             {
@@ -366,10 +366,10 @@
                 "archived": false,
                 "id": 1009676083,
                 "language": "C#",
-                "last_commit": "2026-08-24T08:23:30Z",
+                "last_commit": "2026-08-24T19:09:41Z",
                 "owner": "jyourstone",
                 "repo": "jellyfin-smartlists-plugin",
-                "stars": 325
+                "stars": 326
               }
             },
             {
@@ -538,10 +538,10 @@
                 "archived": false,
                 "id": 699346173,
                 "language": "C#",
-                "last_commit": "2026-08-24T07:59:47Z",
+                "last_commit": "2026-08-24T15:25:58Z",
                 "owner": "intro-skipper",
                 "repo": "intro-skipper",
-                "stars": 2678
+                "stars": 2684
               }
             },
             {
@@ -628,7 +628,7 @@
                 "archived": false,
                 "id": 1140554592,
                 "language": "C#",
-                "last_commit": "2026-08-10T15:03:38Z",
+                "last_commit": "2026-08-24T20:07:07Z",
                 "owner": "voc0der",
                 "repo": "jellyfin-transcode-nag",
                 "stars": 24
@@ -668,7 +668,7 @@
                 "last_commit": "2026-07-31T07:44:05Z",
                 "owner": "lostb1t",
                 "repo": "Gelato",
-                "stars": 757
+                "stars": 759
               }
             },
             {
@@ -695,7 +695,7 @@
                 "archived": false,
                 "id": 443748162,
                 "language": "C#",
-                "last_commit": "2026-08-04T18:58:09Z",
+                "last_commit": "2026-08-24T18:21:37Z",
                 "owner": "vosmiic",
                 "repo": "jellyfin-ani-sync",
                 "stars": 475
@@ -710,10 +710,10 @@
                 "archived": false,
                 "id": 1152524572,
                 "language": "C#",
-                "last_commit": "2026-08-24T13:51:00Z",
+                "last_commit": "2026-08-24T17:45:14Z",
                 "owner": "Moonfin-Client",
                 "repo": "Plugin",
-                "stars": 349
+                "stars": 350
               }
             },
             {
@@ -740,7 +740,7 @@
                 "archived": false,
                 "id": 845424503,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:49:21Z",
+                "last_commit": "2026-08-24T15:30:43Z",
                 "owner": "streamyfin",
                 "repo": "jellyfin-plugin-streamyfin",
                 "stars": 297
@@ -900,7 +900,7 @@
                 "last_commit": "2026-07-07T18:49:58Z",
                 "owner": "RomainPierre7",
                 "repo": "jellyfin-plugin-TelegramNotifier",
-                "stars": 140
+                "stars": 141
               }
             },
             {
@@ -927,7 +927,7 @@
                 "archived": false,
                 "id": 1129715147,
                 "language": "C#",
-                "last_commit": "2026-08-24T10:46:26Z",
+                "last_commit": "2026-08-24T18:53:23Z",
                 "owner": "peterdu1109",
                 "repo": "NotifySync",
                 "stars": 23
@@ -982,7 +982,7 @@
                 "last_commit": "2026-08-20T18:50:48Z",
                 "owner": "ZL154",
                 "repo": "JellyfinSecurity",
-                "stars": 220
+                "stars": 221
               }
             },
             {
@@ -1121,7 +1121,7 @@
                 "archived": false,
                 "id": 1110874237,
                 "language": "C#",
-                "last_commit": "2026-08-19T12:57:19Z",
+                "last_commit": "2026-08-24T21:00:43Z",
                 "owner": "GeiserX",
                 "repo": "whisper-subs",
                 "stars": 94
@@ -1356,7 +1356,7 @@
                 "last_commit": "2026-05-05T08:30:32Z",
                 "owner": "ankenyr",
                 "repo": "jellyfin-youtube-metadata-plugin",
-                "stars": 777
+                "stars": 778
               }
             },
             {
@@ -1473,7 +1473,7 @@
                 "archived": false,
                 "id": 847077848,
                 "language": "C#",
-                "last_commit": "2026-08-22T19:44:18Z",
+                "last_commit": "2026-08-24T15:24:37Z",
                 "owner": "ryandash",
                 "repo": "jellyfin-plugin-myanimelist",
                 "stars": 74
@@ -1488,7 +1488,7 @@
                 "archived": false,
                 "id": 1167669124,
                 "language": "C#",
-                "last_commit": "2026-08-24T13:36:32Z",
+                "last_commit": "2026-08-24T18:59:38Z",
                 "owner": "voc0der",
                 "repo": "jellyfin-imdb-rating-updater",
                 "stars": 51
@@ -1609,7 +1609,7 @@
                 "last_commit": "2026-08-20T18:20:31Z",
                 "owner": "fscorrupt",
                 "repo": "posterizarr",
-                "stars": 918
+                "stars": 919
               }
             },
             {
@@ -1624,7 +1624,7 @@
                 "last_commit": "2026-08-24T01:02:23Z",
                 "owner": "TitleCardMaker",
                 "repo": "TitleCardMaker",
-                "stars": 849
+                "stars": 852
               }
             },
             {
@@ -1654,7 +1654,7 @@
                 "last_commit": "2026-07-26T16:44:03Z",
                 "owner": "nothing2obvi",
                 "repo": "pixelfin",
-                "stars": 157
+                "stars": 158
               }
             },
             {
@@ -1778,10 +1778,10 @@
                 "archived": false,
                 "id": 467856408,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T17:14:23Z",
+                "last_commit": "2026-08-24T20:17:25Z",
                 "owner": "seerr-team",
                 "repo": "seerr",
-                "stars": 12361
+                "stars": 12370
               }
             },
             {
@@ -1796,7 +1796,7 @@
                 "last_commit": "2026-02-19T13:29:08Z",
                 "owner": "aleksilassila",
                 "repo": "reiverr",
-                "stars": 2338
+                "stars": 2339
               }
             },
             {
@@ -1883,7 +1883,7 @@
                 "archived": false,
                 "id": 591263329,
                 "language": "Kotlin",
-                "last_commit": "2026-08-12T09:33:34Z",
+                "last_commit": "2026-08-24T20:20:22Z",
                 "owner": "Divinelink",
                 "repo": "scenepeek-android",
                 "stars": 64
@@ -1953,7 +1953,7 @@
                 "last_commit": "2026-08-07T23:28:48Z",
                 "owner": "CyferShepard",
                 "repo": "Jellystat",
-                "stars": 2449
+                "stars": 2450
               }
             },
             {
@@ -1968,7 +1968,7 @@
                 "last_commit": "2026-08-21T15:25:08Z",
                 "owner": "arabcoders",
                 "repo": "watchstate",
-                "stars": 1529
+                "stars": 1531
               }
             },
             {
@@ -2207,7 +2207,7 @@
                 "last_commit": "2025-12-28T18:43:45Z",
                 "owner": "sachinsenal0x64",
                 "repo": "fixarr",
-                "stars": 201
+                "stars": 200
               }
             },
             {
@@ -2304,7 +2304,7 @@
                 "last_commit": "2026-08-07T10:22:49Z",
                 "owner": "McCloudS",
                 "repo": "subgen",
-                "stars": 1466
+                "stars": 1465
               }
             },
             {
@@ -2368,10 +2368,10 @@
                 "archived": false,
                 "id": 989499651,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:18:24Z",
+                "last_commit": "2026-08-24T14:37:53Z",
                 "owner": "NeptuneHub",
                 "repo": "AudioMuse-AI",
-                "stars": 2487
+                "stars": 2489
               }
             },
             {
@@ -2450,10 +2450,10 @@
                 "archived": false,
                 "id": 404588188,
                 "language": "Python",
-                "last_commit": "2026-08-17T20:23:21Z",
+                "last_commit": "2026-08-24T20:23:12Z",
                 "owner": "jmbannon",
                 "repo": "ytdl-sub",
-                "stars": 2921
+                "stars": 2922
               }
             },
             {
@@ -2480,7 +2480,7 @@
                 "archived": false,
                 "id": 768813127,
                 "language": "Python",
-                "last_commit": "2026-08-22T06:05:04Z",
+                "last_commit": "2026-08-24T16:27:13Z",
                 "owner": "nandyalu",
                 "repo": "trailarr",
                 "stars": 448
@@ -2535,7 +2535,7 @@
                 "last_commit": "2026-08-22T17:33:40Z",
                 "owner": "Apps2Samsung",
                 "repo": "Apps2Samsung",
-                "stars": 1890
+                "stars": 1893
               }
             },
             {
@@ -2592,7 +2592,7 @@
                 "archived": false,
                 "id": 67309601,
                 "language": "Jinja",
-                "last_commit": "2026-08-24T06:23:30Z",
+                "last_commit": "2026-08-24T15:49:06Z",
                 "owner": "nodiscc",
                 "repo": "xsrv",
                 "stars": 405
@@ -2697,7 +2697,7 @@
                 "archived": false,
                 "id": 1205279424,
                 "language": "C#",
-                "last_commit": "2026-08-24T13:49:21Z",
+                "last_commit": "2026-08-24T21:03:48Z",
                 "owner": "JellyPlugins",
                 "repo": "jellyfin-helper",
                 "stars": 39
@@ -2749,7 +2749,7 @@
                 "archived": false,
                 "id": 745191044,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:28:09Z",
+                "last_commit": "2026-08-24T20:29:04Z",
                 "owner": "chrisbenincasa",
                 "repo": "tunarr",
                 "stars": 2537
@@ -2797,7 +2797,7 @@
                 "last_commit": "2026-04-30T06:42:49Z",
                 "owner": "ranaldsgift",
                 "repo": "KefinTweaks",
-                "stars": 618
+                "stars": 619
               }
             },
             {
@@ -2812,7 +2812,7 @@
                 "last_commit": "2026-08-03T15:15:38Z",
                 "owner": "TechSquidTV",
                 "repo": "Cliparr",
-                "stars": 128
+                "stars": 129
               }
             },
             {
@@ -2824,7 +2824,7 @@
                 "archived": false,
                 "id": 893137890,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:43:24Z",
+                "last_commit": "2026-08-24T20:55:12Z",
                 "owner": "arnolicious",
                 "repo": "jelly-clipper",
                 "stars": 90
@@ -2940,10 +2940,10 @@
             "archived": false,
             "id": 934959044,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T19:52:18Z",
+            "last_commit": "2026-08-24T18:40:51Z",
             "owner": "Dispatcharr",
             "repo": "Dispatcharr",
-            "stars": 3867
+            "stars": 3868
           }
         },
         {
@@ -2958,7 +2958,7 @@
             "last_commit": "2026-08-20T16:14:29Z",
             "owner": "ErsatzTV",
             "repo": "legacy",
-            "stars": 2916
+            "stars": 2917
           }
         },
         {
@@ -2988,7 +2988,7 @@
             "last_commit": "2025-10-03T15:28:35Z",
             "owner": "Threadfin",
             "repo": "Threadfin",
-            "stars": 1694
+            "stars": 1693
           }
         },
         {
@@ -3000,7 +3000,7 @@
             "archived": false,
             "id": 311688903,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T02:04:43Z",
+            "last_commit": "2026-08-24T19:24:22Z",
             "owner": "FoxxMD",
             "repo": "multi-scrobbler",
             "stars": 1184
@@ -3068,7 +3068,7 @@
                 "last_commit": "2026-08-19T01:30:02Z",
                 "owner": "Sonarr",
                 "repo": "Sonarr",
-                "stars": 15248
+                "stars": 15256
               }
             },
             {
@@ -3083,7 +3083,7 @@
                 "last_commit": "2026-08-23T18:54:50Z",
                 "owner": "Radarr",
                 "repo": "Radarr",
-                "stars": 14218
+                "stars": 14222
               }
             },
             {
@@ -3136,7 +3136,7 @@
             "archived": false,
             "id": 838513175,
             "language": "Python",
-            "last_commit": "2026-08-20T20:43:59Z",
+            "last_commit": "2026-08-24T17:10:50Z",
             "owner": "rix1337",
             "repo": "Quasarr",
             "stars": 152
@@ -3162,7 +3162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:27.914Z",
+    "last_updated": "2026-08-24T21:04:59.193Z",
     "original_repository": "awesome-jellyfin/awesome-jellyfin",
     "original_repository_id": 536260952,
     "original_repository_sha": "8c0e49859e8a81c8d9101182a271a91eb90de262",
