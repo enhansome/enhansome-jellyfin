@@ -37,28 +37,28 @@
 
 <!-- sort list:plugins-ui -->
 
-* [Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) ⭐ 1,691 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-26 - Adds keyboard shortcuts, subtitle styling, TMDB reviews, Seerr search and request integration, and other improvements to Jellyfin.
+* [Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) ⭐ 1,693 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-27 - Adds keyboard shortcuts, subtitle styling, TMDB reviews, Seerr search and request integration, and other improvements to Jellyfin.
 * [jellyscrub](https://github.com/nicknsy/jellyscrub) ⭐ 788 | 🐛 33 | 🌐 C# | 📅 2024-11-10 - Smooth mouse-over video scrubbing previews. `🔸 Stale`
   <!--lint ignore list-item-indent awesome-list-item-->
   * **NOTE:** Jellyfin 10.9 now natively supports trickplay.
 * [jellyfin-plugin-skin-manager](https://github.com/danieladov/jellyfin-plugin-skin-manager) ⭐ 656 | 🐛 42 | 🌐 JavaScript | 📅 2026-05-05 - Helps you to download and install skins.
-* [jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) ⭐ 485 | 🐛 52 | 🌐 C# | 📅 2026-08-26 - Allows users to customize the jellyfin-web home screen with dynamic sections like "Because You Watched" and "Latest Movies".
+* [jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) ⭐ 485 | 🐛 52 | 🌐 C# | 📅 2026-08-27 - Allows users to customize the jellyfin-web home screen with dynamic sections like "Because You Watched" and "Latest Movies".
 * [InPlayerEpisodePreview](https://github.com/Namo2/InPlayerEpisodePreview) ⭐ 403 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 - Adds an episode list to the video player.
-* [jellyfin-plugin-media-bar](https://github.com/IAmParadox27/jellyfin-plugin-media-bar) ⭐ 391 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-26 - A Featured Content Bar to showcase your media collection.
+* [jellyfin-plugin-media-bar](https://github.com/IAmParadox27/jellyfin-plugin-media-bar) ⭐ 391 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-27 - A Featured Content Bar to showcase your media collection.
 * [jellyfin-editors-choice-plugin](https://github.com/lachlandcp/jellyfin-editors-choice-plugin) ⭐ 200 | 🐛 24 | 🌐 HTML | 📅 2026-05-22 - Adds a Netflix-style, full-width content slider to the home page to feature selected content.
-* [jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) ⭐ 169 | 🐛 2 | 🌐 C# | 📅 2026-08-26 - Enables other plugins to create custom Jellyfin pages that match the native UI.
+* [jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) ⭐ 169 | 🐛 2 | 🌐 C# | 📅 2026-08-27 - Enables other plugins to create custom Jellyfin pages that match the native UI.
 * [jellyfin-plugin-custom-tabs](https://github.com/IAmParadox27/jellyfin-plugin-custom-tabs) ⭐ 165 | 🐛 20 | 🌐 C# | 📅 2026-06-11 - Adds personalized tabs in jellyfin-web for quick access to custom content.
 * [Jellyfin-MonWUI-Plugin](https://github.com/G-grbz/Jellyfin-MonWUI-Plugin) ⚠️ Archived - UI enhancement toolkit for Jellyfin providing customizable sliders, hover trailers, a music player, notifications, and other interface modules.
-* [jellyfin-icon-metadata](https://github.com/Druidblack/jellyfin-icon-metadata) ⭐ 147 | 🐛 2 | 🌐 CSS | 📅 2026-02-19 - Adds metadata provider icons to Jellyfin.
+* [jellyfin-icon-metadata](https://github.com/Druidblack/jellyfin-icon-metadata) ⭐ 148 | 🐛 2 | 🌐 CSS | 📅 2026-02-19 - Adds metadata provider icons to Jellyfin.
 * [Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ⭐ 130 | 🐛 2 | 🌐 C# | 📅 2026-08-12 - Injects custom JavaScript into the Jellyfin UI without modifying index.html.
 * [jellyfin-plugin-collection-sections](https://github.com/IAmParadox27/jellyfin-plugin-collection-sections) ⭐ 106 | 🐛 14 | 🌐 C# | 📅 2026-06-11 - Adds additional sections to `jellyfin-plugin-home-sections` for collections and playlists.
 * [HoverTrailer](https://github.com/Fovty/HoverTrailer) ⭐ 90 | 🐛 0 | 🌐 C# | 📅 2026-06-29 - Displays movie trailers on hover.
-* [SeerrFin](https://github.com/varunaditya-plus/SeerrFin) ⭐ 67 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-23 - Discover and request movies and TV shows through Seerr directly from Jellyfin.
+* [SeerrFin](https://github.com/varunaditya-plus/SeerrFin) ⭐ 69 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-23 - Discover and request movies and TV shows through Seerr directly from Jellyfin.
 * [Jellyfin-Seasonals](https://github.com/CodeDevMLH/Jellyfin-Seasonals) ⭐ 56 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10 - Collections of seasonal themes and animations for Jellyfin.
-* [jellyfin-plugin-ratings](https://github.com/K3ntas/jellyfin-plugin-ratings) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-25 - Adds user ratings, card overlays, media requests, deletion workflows, chat, and new media notifications to Jellyfin.
-* [jellyfin-plugin-GetAvatar](https://github.com/cedev-1/jellyfin-plugin-GetAvatar) ⭐ 48 | 🐛 1 | 🌐 C# | 📅 2026-08-17 - Allows users to choose an avatar from a collection of images.
-* [Achievement Badges](https://github.com/ZL154/AchievementBadges_for_Jellyfin) ⭐ 42 | 🐛 11 | 🌐 HTML | 📅 2026-08-17 - Unlockable viewing achievement badges that gamify Jellyfin with milestones like first watch, binge sessions, and late-night viewing with social features such as group chats and messaging.
-* [StarTrack](https://github.com/ZL154/jellyfin-plugin-startrack) ⭐ 26 | 🐛 6 | 🌐 C# | 📅 2026-08-21 - Adds per-user ratings, watchlists, diaries, lists, and member profiles to Jellyfin, with optional Letterboxd/Trakt/Simkl sync.
+* [jellyfin-plugin-ratings](https://github.com/K3ntas/jellyfin-plugin-ratings) ⭐ 52 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-25 - Adds user ratings, card overlays, media requests, deletion workflows, chat, and new media notifications to Jellyfin.
+* [jellyfin-plugin-GetAvatar](https://github.com/cedev-1/jellyfin-plugin-GetAvatar) ⭐ 49 | 🐛 1 | 🌐 C# | 📅 2026-08-17 - Allows users to choose an avatar from a collection of images.
+* [Achievement Badges](https://github.com/ZL154/AchievementBadges_for_Jellyfin) ⭐ 43 | 🐛 11 | 🌐 HTML | 📅 2026-08-17 - Unlockable viewing achievement badges that gamify Jellyfin with milestones like first watch, binge sessions, and late-night viewing with social features such as group chats and messaging.
+* [StarTrack](https://github.com/ZL154/jellyfin-plugin-startrack) ⭐ 26 | 🐛 7 | 🌐 C# | 📅 2026-08-21 - Adds per-user ratings, watchlists, diaries, lists, and member profiles to Jellyfin, with optional Letterboxd/Trakt/Simkl sync.
 * [Static Assets](https://github.com/cleverdevil/jelly-static-assets) ⭐ 13 | 🐛 5 | 🌐 HTML | 📅 2025-04-22 - Upload and serve static assets such as CSS, JavaScript, and images directly from Jellyfin. `🔸 Stale`
 * [Jellyfin.Plugin.ActorPlus](https://github.com/Druidblack/Jellyfin.Plugin.ActorPlus) ⭐ 11 | 🐛 7 | 🌐 C# | 📅 2026-02-22 - Adds additional details and hoverable filmography to actor portraits and displays actor lists when hovering over movie or series posters.
 * [jellyfin-media-preview-plugin](https://github.com/spkesDE/jellyfin-media-preview-plugin) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19 - Adds hover previews to Jellyfin Web using Trickplay thumbnails, local trailers, or YouTube trailers.
@@ -83,9 +83,9 @@
 
 <!-- sort list:plugins-playback -->
 
-* [intro-skipper](https://github.com/intro-skipper/intro-skipper) ⭐ 2,692 | 🐛 31 | 🌐 C# | 📅 2026-08-26 - Fingerprint audio to automatically detect intro and outro segments in Jellyfin.
+* [intro-skipper](https://github.com/intro-skipper/intro-skipper) ⭐ 2,692 | 🐛 32 | 🌐 C# | 📅 2026-08-27 - Fingerprint audio to automatically detect intro and outro segments in Jellyfin.
 * [jellyfin-plugin-cinemamode](https://github.com/CherryFloors/jellyfin-plugin-cinemamode) ⭐ 153 | 🐛 24 | 🌐 HTML | 📅 2026-08-08 - Enables Jellyfin's Cinema Mode with local trailers and pre-rolls.
-* [TheIntroDB](https://github.com/TheIntroDB/jellyfin-plugin) ⭐ 97 | 🐛 4 | 🌐 C# | 📅 2026-08-23 - Community powered database of intro, recap, credits, and preview segments for movies and TV shows.
+* [TheIntroDB](https://github.com/TheIntroDB/jellyfin-plugin) ⭐ 98 | 🐛 4 | 🌐 C# | 📅 2026-08-23 - Community powered database of intro, recap, credits, and preview segments for movies and TV shows.
 * [Jellyfin.Plugin.StreamLimit](https://github.com/JellyboxAD/Jellyfin.Plugin.StreamLimit) ⭐ 78 | 🐛 1 | 🌐 C# | 📅 2026-07-17 - Allows limiting the number of simultaneous streams per user.
 * [jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ⭐ 66 | 🐛 9 | 🌐 C# | 📅 2026-06-22 - Adds sleep timer functionality to Jellyfin.
 * [jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ⭐ 39 | 🐛 10 | 🌐 C# | 📅 2026-04-13 - Lets you remove items from the Continue Watching list without resetting watch progress, with optional auto-hide after inactivity.
@@ -96,16 +96,16 @@
 
 <!-- sort list:plugins-integration -->
 
-* [Gelato](https://github.com/lostb1t/Gelato) ⭐ 763 | 🐛 30 | 🌐 C# | 📅 2026-07-31 - Replaces Jellyfin's default search with Stremio-powered results and can automatically import entire catalogs into your library through scheduled tasks.
+* [Gelato](https://github.com/lostb1t/Gelato) ⭐ 764 | 🐛 30 | 🌐 C# | 📅 2026-07-31 - Replaces Jellyfin's default search with Stremio-powered results and can automatically import entire catalogs into your library through scheduled tasks.
 * [jellyfin-rpc by *Radiicall*](https://github.com/JustRadical/jellyfin-rpc) ⭐ 541 | 🐛 21 | 🌐 Rust | 📅 2026-07-28 - Displays your current Jellyfin activity directly on Discord.
 * [jellyfin-ani-sync](https://github.com/vosmiic/jellyfin-ani-sync) ⭐ 478 | 🐛 25 | 🌐 C# | 📅 2026-08-24 - Automatically tracks and synchronizes anime watching progress between Jellyfin and [Anilist](https://anilist.co/) and other services.
-* [Moonbase](https://github.com/Moonfin-Client/Plugin) ⭐ 351 | 🐛 12 | 🌐 C# | 📅 2026-08-26 - Companion plugin for Moonfin clients, providing server-side settings sync, integrations, and a hosted Moonfin Web interface.
-* [Shokofin](https://github.com/ShokoAnime/Shokofin) ⭐ 302 | 🐛 2 | 🌐 C# | 📅 2026-08-19 - Integrates [Shoko Server](https://shokoanime.com/downloads/shoko-server/) with Jellyfin for anime library management.
+* [Moonbase](https://github.com/Moonfin-Client/Plugin) ⭐ 352 | 🐛 13 | 🌐 C# | 📅 2026-08-26 - Companion plugin for Moonfin clients, providing server-side settings sync, integrations, and a hosted Moonfin Web interface.
+* [Shokofin](https://github.com/ShokoAnime/Shokofin) ⭐ 303 | 🐛 2 | 🌐 C# | 📅 2026-08-19 - Integrates [Shoko Server](https://shokoanime.com/downloads/shoko-server/) with Jellyfin for anime library management.
 * [jellyfin-plugin-streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin) ⭐ 297 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-26 - Companion plugin for Streamyfin which allows for a centralized configuration of the Streamyfin application.
-* [jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) ⭐ 215 | 🐛 15 | 🌐 C# | 📅 2026-08-25 - Automatically syncs your music activity with ListenBrainz.
+* [jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) ⭐ 215 | 🐛 17 | 🌐 C# | 📅 2026-08-27 - Automatically syncs your music activity with ListenBrainz.
 * [jellynext](https://github.com/luall0/jellynext) ⭐ 153 | 🐛 12 | 🌐 C# | 📅 2026-02-24 - Creates per-user virtual libraries for personalized Trakt recommendations and new seasons.
 * [Plexyfin](https://github.com/cleverdevil/plexyfin) ⭐ 142 | 🐛 14 | 🌐 C# | 📅 2026-07-15 - Automatically synchronizes artwork and collections from Plex to Jellyfin.
-* [jellyfin-rpc by *kennethsible*](https://github.com/kennethsible/jellyfin-rpc) ⭐ 79 | 🐛 5 | 🌐 Python | 📅 2026-08-25 - Displays your current Jellyfin activity directly on Discord.
+* [jellyfin-rpc by *kennethsible*](https://github.com/kennethsible/jellyfin-rpc) ⭐ 79 | 🐛 5 | 🌐 Python | 📅 2026-08-27 - Displays your current Jellyfin activity directly on Discord.
 * [MyAnimeSync](https://github.com/iankiller77/MyAnimeSync) ⭐ 67 | 🐛 4 | 🌐 C# | 📅 2026-08-15 - Automatically synchronizes anime watching progress between Jellyfin and MyAnimeList.
 * [jellyfin-plugin-letterboxd-sync](https://github.com/Gizmo091/jellyfin-plugin-letterboxd-sync) ⭐ 58 | 🐛 0 | 🌐 C# | 📅 2026-08-05 - Automatically syncs your watched movie history with Letterboxd.
 * [jellyfin-plugin-animethemes](https://github.com/EusthEnoptEron/jellyfin-plugin-animethemes) ⭐ 49 | 🐛 10 | 🌐 C# | 📅 2026-02-11 - Fetches anime opening and ending themes from [AnimeThemes.moe](https://animethemes.moe/), supporting both audio and video.
@@ -117,7 +117,7 @@
 
 * [Jellyfin-Newsletter-Plugin](https://github.com/Cloud9Developer/Jellyfin-Newsletter-Plugin) ⭐ 166 | 🐛 56 | 🌐 C# | 📅 2025-10-20 - Newsletters for recently added media. `🔹 Beta`
 * [jellyfin-plugin-TelegramNotifier](https://github.com/RomainPierre7/jellyfin-plugin-TelegramNotifier) ⭐ 142 | 🐛 7 | 🌐 C# | 📅 2026-07-07 - Receive notifications of Jellyfin server events via Telegram.
-* [Jellyfin-Newsletter](https://github.com/Sanidhya30/Jellyfin-Newsletter) ⭐ 117 | 🐛 7 | 🌐 C# | 📅 2026-08-23 - Sends newsletters and notifications about library changes (additions, updates, deletions) via email, Discord, or Telegram.
+* [Jellyfin-Newsletter](https://github.com/Sanidhya30/Jellyfin-Newsletter) ⭐ 118 | 🐛 7 | 🌐 C# | 📅 2026-08-23 - Sends newsletters and notifications about library changes (additions, updates, deletions) via email, Discord, or Telegram.
 * [NotifySync](https://github.com/peterdu1109/NotifySync) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2026-08-24 - Adds a notification bell to Jellyfin that displays recent additions.
 * [jellyfin-plugin-DiscordNotifier](https://github.com/cedev-1/jellyfin-plugin-DiscordNotifier) ⭐ 15 | 🐛 6 | 🌐 C# | 📅 2026-08-23 - Sends notifications of Jellyfin server events to Discord.
 
@@ -126,7 +126,7 @@
 <!-- sort list:plugins-auth -->
 
 * [jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) ⚠️ Archived - Allows users to sign in through an SSO provider. `🔹 Beta` `🔸 Stale`
-* [Jellyfin Security](https://github.com/ZL154/JellyfinSecurity) ⭐ 223 | 🐛 18 | 🌐 C# | 📅 2026-08-20 - Natively adds TOTP and email 2FA, passkeys, OIDC/SSO sign-in, brute-force protection, IP allowlists, device pairing, trusted browsers, and audit logging to Jellyfin.
+* [Jellyfin Security](https://github.com/ZL154/JellyfinSecurity) ⭐ 224 | 🐛 18 | 🌐 C# | 📅 2026-08-20 - Natively adds TOTP and email 2FA, passkeys, OIDC/SSO sign-in, brute-force protection, IP allowlists, device pairing, trusted browsers, and audit logging to Jellyfin.
 * [jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth) ⭐ 220 | 🐛 60 | 🌐 C# | 📅 2026-06-24 - Allows the use of LDAP as an auth provider.
 * [TeleJelly](https://github.com/hexxone/TeleJelly) ⭐ 25 | 🐛 0 | 🌐 C# | 📅 2026-07-17 - Allows users to sign in through the [Telegram Login Widget](https://core.telegram.org/widgets/login).
 * [Jellyfin-Discord-Auth](https://github.com/EvanTrow/Jellyfin-Discord-Auth) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-06-14 - Allows users to sign in through Discord.
@@ -135,17 +135,17 @@
 
 <!-- sort list:plugins-library -->
 
-* [jellyfin-plugin-meilisearch](https://github.com/arnesacnussem/jellyfin-plugin-meilisearch) ⭐ 318 | 🐛 11 | 🌐 C# | 📅 2026-07-21 - Enhances Jellyfin search speed and accuracy by offloading queries to a Meilisearch instance.
+* [jellyfin-plugin-meilisearch](https://github.com/arnesacnussem/jellyfin-plugin-meilisearch) ⭐ 319 | 🐛 11 | 🌐 C# | 📅 2026-07-21 - Enhances Jellyfin search speed and accuracy by offloading queries to a Meilisearch instance.
 * [jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) ⭐ 258 | 🐛 23 | 🌐 C# | 📅 2026-07-30 - Automatically removes played media after a specified time period.
 * [JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) ⭐ 121 | 🐛 3 | 🌐 C# | 📅 2026-08-12 - Overrides Jellyfin settings such as *Enable Backdrops* and *Enable Theme Music* across all devices.
 * [jellyfin-plugin-languageTags](https://github.com/TheXaman/jellyfin-plugin-languageTags) ⭐ 97 | 🐛 16 | 🌐 C# | 📅 2026-03-31 - Adds language tags to media based on audio tracks using FFmpeg.
 * [media-upload-plugin](https://github.com/GrandguyJS/media-upload-plugin) ⭐ 94 | 🐛 2 | 🌐 HTML | 📅 2026-08-10 - Media-manager that provides uploads, bulk downloads from URLs, and directory browsing within Jellyfin. `🔸 Stale`
 * [whisper-subs](https://github.com/GeiserX/whisper-subs) ⭐ 94 | 🐛 2 | 🌐 C# | 📅 2026-08-24 - Automatically generates subtitles using local AI models powered by Whisper, with all processing on your server.
-* [Jellyfin-Xtream-Library](https://github.com/firestaerter3/Jellyfin-Xtream-Library) ⭐ 84 | 🐛 3 | 🌐 C# | 📅 2026-08-15 - Syncs Xtream VOD and Series content to native Jellyfin libraries via STRM files, with automatic metadata lookup and Live TV support.
+* [Jellyfin-Xtream-Library](https://github.com/firestaerter3/Jellyfin-Xtream-Library) ⭐ 84 | 🐛 4 | 🌐 C# | 📅 2026-08-15 - Syncs Xtream VOD and Series content to native Jellyfin libraries via STRM files, with automatic metadata lookup and Live TV support.
 * [Jellyfin Ignore](https://github.com/fdett/jellyfin-ignore/) ⭐ 71 | 🐛 4 | 🌐 C# | 📅 2024-07-07 - Ignores filename patterns on library scans. `🔹 Beta` `🔸 Stale`
 * [jellyfin-plugin-MediathekViewDL](https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL) ⭐ 71 | 🐛 15 | 🌐 C# | 📅 2026-08-24 - Integrates MediathekViewDL into Jellyfin and allows users to search, download, and manage content.
 * [jellyfin-musictags-plugin](https://github.com/jyourstone/jellyfin-musictags-plugin) ⭐ 57 | 🐛 0 | 🌐 C# | 📅 2026-07-27 - Automatically extracts audio file metadata and converts it into standard Jellyfin tags.
-* [jellyfin-plugin-localrecs](https://github.com/rdpharr/jellyfin-plugin-localrecs) ⭐ 54 | 🐛 7 | 🌐 C# | 📅 2026-05-30 - Generates personalized movie and TV recommendations based on local watch history without external services required.
+* [jellyfin-plugin-localrecs](https://github.com/rdpharr/jellyfin-plugin-localrecs) ⭐ 54 | 🐛 8 | 🌐 C# | 📅 2026-05-30 - Generates personalized movie and TV recommendations based on local watch history without external services required.
 * [jellyfin-local-posters](https://github.com/NooNameR/Jellyfin.Plugin.LocalPosters/) ⭐ 53 | 🐛 16 | 🌐 C# | 📅 2026-05-23 - Automatically matches and imports local posters using TPDb and MediUX filename formats. Also supports syncing posters from Google Drive.
 * [jellyfin-powertoys](https://github.com/lennykean/jellyfin-powertoys) ⭐ 51 | 🐛 3 | 🌐 HTML | 📅 2026-07-16 - A collection of plugins to enhance Jellyfin with additional features and tools.
 * [jellyfin-plugin-enigma2](https://github.com/knackebrot/jellyfin-plugin-enigma2) ⭐ 45 | 🐛 16 | 🌐 C# | 📅 2024-06-22 - Supports Vu+ & Enigma2 live TV streamers. `🔸 Stale`
@@ -167,8 +167,8 @@
 * [jellyfin-plugin-onepace](https://github.com/jwueller/jellyfin-plugin-onepace) ⭐ 161 | 🐛 25 | 🌐 C# | 📅 2026-08-14 - Provides metadata and cover art for the [One Pace](https://onepace.net) project.
 * [jellyfin-plugin-applemusic](https://github.com/lyarenei/jellyfin-plugin-applemusic) ⭐ 96 | 🐛 5 | 🌐 C# | 📅 2026-07-28 - Fetches album and artist metadata from Apple Music.
 * [Jellyfin.Plugin.MDBList\_Ratings](https://github.com/Druidblack/Jellyfin.Plugin.MDBList_Ratings) ⭐ 92 | 🐛 14 | 🌐 C# | 📅 2026-04-14 - Retrieves ratings from MDBList using TMDb IDs and integrates them into Jellyfin's rating fields, with optional UI enhancements to display ratings from multiple sources.
-* [Jellyfin Plugin Stash](https://github.com/DirtyRacer1337/Jellyfin.Plugin.Stash) ⭐ 77 | 🐛 8 | 🌐 C# | 📅 2026-06-03 - Metadata provider for [Stash](https://github.com/stashapp/stash) ⭐ 12,885 | 🐛 710 | 🌐 Go | 📅 2026-08-25.
-* [jellyfin-plugin-myanimelist](https://github.com/ryandash/jellyfin-plugin-myanimelist) ⭐ 74 | 🐛 2 | 🌐 C# | 📅 2026-08-25 - Provides MyAnimeList metadata for anime.
+* [Jellyfin Plugin Stash](https://github.com/DirtyRacer1337/Jellyfin.Plugin.Stash) ⭐ 77 | 🐛 8 | 🌐 C# | 📅 2026-06-03 - Metadata provider for [Stash](https://github.com/stashapp/stash) ⭐ 12,891 | 🐛 710 | 🌐 Go | 📅 2026-08-25.
+* [jellyfin-plugin-myanimelist](https://github.com/ryandash/jellyfin-plugin-myanimelist) ⭐ 75 | 🐛 2 | 🌐 C# | 📅 2026-08-25 - Provides MyAnimeList metadata for anime.
 * [jellyfin-imdb-rating-updater](https://github.com/voc0der/jellyfin-imdb-rating-updater) ⭐ 51 | 🐛 3 | 🌐 C# | 📅 2026-08-25 - Downloads the IMDb ratings dataset daily and updates the CommunityRating field for library items with an IMDb ID without modifying other metadata.
 * [jellyfin-plugin-shikimori](https://github.com/te9c/jellyfin-plugin-shikimori) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2026-06-21 - Metadata provider for shikimori.one.
 * [jellyfin-plugin-AnimeMultiSource](https://github.com/webbster64/jellyfin-plugin-AnimeMultiSource) ⭐ 27 | 🐛 4 | 🌐 C# | 📅 2026-08-10 - Aggregates anime metadata, tags, artwork, and people from multiple sources (AniList, AniDB, MAL/Jikan, TVDB, Fanart.tv) with rate limiting and persistent caching for large libraries.
@@ -183,12 +183,12 @@
 
 <!-- sort list:tools-artwork -->
 
-* [Posterizarr](https://github.com/fscorrupt/posterizarr) ⭐ 919 | 🐛 3 | 🌐 PowerShell | 📅 2026-08-26 - Automates poster, background, and title card creation for Plex, Jellyfin, and Emby with customizable overlays.
+* [Posterizarr](https://github.com/fscorrupt/posterizarr) ⭐ 919 | 🐛 4 | 🌐 PowerShell | 📅 2026-08-26 - Automates poster, background, and title card creation for Plex, Jellyfin, and Emby with customizable overlays.
 * [TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) ⭐ 853 | 🐛 108 | 🌐 Python | 📅 2026-08-25 - Automated title card maker for Plex, Jellyfin, and Emby.
-* [Jellyfin-Cover-Maker](https://github.com/KartoffelChipss/Jellyfin-Cover-Maker) ⭐ 161 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-22 - Website for creating consistent covers and posters for Jellyfin libraries.
+* [Jellyfin-Cover-Maker](https://github.com/KartoffelChipss/Jellyfin-Cover-Maker) ⭐ 162 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-22 - Website for creating consistent covers and posters for Jellyfin libraries.
 * [pixelfin](https://github.com/nothing2obvi/pixelfin) ⭐ 158 | 🐛 0 | 🌐 Python | 📅 2026-07-26 - Inspects Jellyfin libraries for missing, present, or low-resolution images with export support.
 * [jellyfin\_ratings](https://github.com/Druidblack/jellyfin_ratings) ⭐ 126 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-05 - Replaces Jellyfin ratings with ratings from various sources (IMDb, Trakt, Letterboxd, and others).
-* [jellyfin-tools](https://github.com/eebette/jellyfin-tools) ⭐ 103 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - Generates images with Jellyfin-like styling such as shadow overlays and library title text. `🔸 Stale`
+* [jellyfin-tools](https://github.com/eebette/jellyfin-tools) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - Generates images with Jellyfin-like styling such as shadow overlays and library title text. `🔸 Stale`
 * [CoverMaker](https://github.com/jeffersoncgo/CoverMaker) ⭐ 45 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-14 - Allows designing and generating custom cover images for your media collections.
 * [jellytools](https://github.com/cleverdevil/jellytools) ⭐ 42 | 🐛 2 | 🌐 Python | 📅 2025-04-21 - CLI tool for synchronizing artwork and collections from Plex to Jellyfin and generating animated library card videos. `🔸 Stale`
 * [Jellyfin Update Poster](https://github.com/Iceshadow1404/JellyfinUpdatePoster) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2025-11-12 - Batch imports cover images from [ThePosterDB](https://theposterdb.com/) and [MediUX](https://mediux.pro), with set downloading support for MediUX.
@@ -199,13 +199,13 @@
 
 <!-- sort list:tools-requests -->
 
-* [seerr](https://github.com/seerr-team/seerr) ⭐ 12,399 | 🐛 383 | 🌐 TypeScript | 📅 2026-08-26 - Request management and media discovery tool for Jellyfin, Plex, and Emby.
-* [reiverr](https://github.com/aleksilassila/reiverr) ⭐ 2,341 | 🐛 67 | 🌐 TypeScript | 📅 2026-02-19 - Combined interface for Jellyfin, TMDB, Radarr, and Sonarr. `🔹 Beta`
-* [SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) ⭐ 1,274 | 🐛 14 | 🌐 Python | 📅 2026-08-24 - Automatically request suggested movies and TV shows to [Seerr](https://github.com/seerr-team/seerr) ⭐ 12,399 | 🐛 383 | 🌐 TypeScript | 📅 2026-08-26 based on recently watched.
-* [swiparr](https://github.com/m3sserstudi0s/swiparr) ⭐ 777 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-22 - Swipe through your library, match with friends in a session, and find something everyone wants to watch.
-* [AudioBookRequest](https://github.com/markbeep/AudioBookRequest) ⭐ 697 | 🐛 49 | 🌐 Python | 📅 2026-08-21 - Request management tool for audiobooks on Plex, Jellyfin, and Audiobookshelf.
-* [List-Sync](https://github.com/Woahai321/list-sync) ⭐ 334 | 🐛 19 | 🌐 Python | 📅 2025-12-30 - Automatically import movies and TV shows from IMDB or Trakt lists into [Seerr](https://github.com/seerr-team/seerr) ⭐ 12,399 | 🐛 383 | 🌐 TypeScript | 📅 2026-08-26. `🔹 Beta`
-* [Anchorr](https://github.com/openVESSL/Anchorr) ⭐ 133 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-25 - Discord bot for Jellyfin media requests and new content notifications.
+* [seerr](https://github.com/seerr-team/seerr) ⭐ 12,405 | 🐛 384 | 🌐 TypeScript | 📅 2026-08-27 - Request management and media discovery tool for Jellyfin, Plex, and Emby.
+* [reiverr](https://github.com/aleksilassila/reiverr) ⭐ 2,342 | 🐛 67 | 🌐 TypeScript | 📅 2026-02-19 - Combined interface for Jellyfin, TMDB, Radarr, and Sonarr. `🔹 Beta`
+* [SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) ⭐ 1,280 | 🐛 14 | 🌐 Python | 📅 2026-08-24 - Automatically request suggested movies and TV shows to [Seerr](https://github.com/seerr-team/seerr) ⭐ 12,405 | 🐛 384 | 🌐 TypeScript | 📅 2026-08-27 based on recently watched.
+* [swiparr](https://github.com/m3sserstudi0s/swiparr) ⭐ 778 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-22 - Swipe through your library, match with friends in a session, and find something everyone wants to watch.
+* [AudioBookRequest](https://github.com/markbeep/AudioBookRequest) ⭐ 698 | 🐛 49 | 🌐 Python | 📅 2026-08-21 - Request management tool for audiobooks on Plex, Jellyfin, and Audiobookshelf.
+* [List-Sync](https://github.com/Woahai321/list-sync) ⭐ 334 | 🐛 19 | 🌐 Python | 📅 2025-12-30 - Automatically import movies and TV shows from IMDB or Trakt lists into [Seerr](https://github.com/seerr-team/seerr) ⭐ 12,405 | 🐛 384 | 🌐 TypeScript | 📅 2026-08-27. `🔹 Beta`
+* [Anchorr](https://github.com/openVESSL/Anchorr) ⭐ 133 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-27 - Discord bot for Jellyfin media requests and new content notifications.
 * [scenepeek-android](https://github.com/Divinelink/scenepeek-android) ⭐ 65 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-25 - An Android app that provides detailed movie and TV show information with TMDB and Seerr integration.
 * [whatseerr](https://github.com/SuFxGIT/whatseerr) ⭐ 53 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-22 - WhatsApp bot for Seerr that allows users to search and request media via WhatsApp messages.
 * [jellyfin-updoot](https://github.com/BobHasNoSoul/jellyfin-updoot) ⭐ 45 | 🐛 2 | 📅 2026-06-05 - Adds thumbs-up recommendations, per-item comments, and a "recommended by users" page.
@@ -215,7 +215,7 @@
 
 <!-- sort list:tools-stats -->
 
-* [Jellystat](https://github.com/CyferShepard/Jellystat) ⭐ 2,451 | 🐛 185 | 🌐 JavaScript | 📅 2026-08-07 - Statistics and analytics dashboard for Jellyfin.
+* [Jellystat](https://github.com/CyferShepard/Jellystat) ⭐ 2,452 | 🐛 185 | 🌐 JavaScript | 📅 2026-08-07 - Statistics and analytics dashboard for Jellyfin.
 * [watchstate](https://github.com/arabcoders/watchstate) ⭐ 1,535 | 🐛 0 | 🌐 PHP | 📅 2026-08-21 - Syncs play state between different media servers.
 * [JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) ⭐ 1,036 | 🐛 33 | 🌐 Python | 📅 2026-06-04 - Syncs watch history between Jellyfin, Plex, and Emby Servers.
 * [streamystats](https://github.com/fredrikburmester/streamystats) ⭐ 806 | 🐛 146 | 🌐 TypeScript | 📅 2026-08-09 - Statistics service for Jellyfin, providing analytics and data visualization.
@@ -228,7 +228,7 @@
 <!-- sort list:tools-users -->
 
 * [wizarr](https://github.com/wizarrrr/wizarr) ⭐ 3,174 | 🐛 153 | 🌐 Python | 📅 2026-08-26 - Advanced user invitation and management system.
-* [jfa-go](https://github.com/hrfee/jfa-go) ⭐ 1,178 | 🐛 43 | 🌐 Go | 📅 2026-06-10 - User- / Invite-Management system for Jellyfin.
+* [jfa-go](https://github.com/hrfee/jfa-go) ⭐ 1,178 | 🐛 42 | 🌐 Go | 📅 2026-06-10 - User- / Invite-Management system for Jellyfin.
 * [jf-avatars](https://github.com/kalibrado/jf-avatars) ⭐ 78 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-14 - Allows users to select avatars from an image gallery.
 * [Jellycord](https://github.com/SiddheshDongare/Jellycord) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-06-10 - Discord companion bot for managing JFA-GO instances. `🔸 Stale`
 * [jellyfin-telegram-channel-sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-01 - Syncs Jellyfin user access with Telegram channel membership, automatically disabling accounts when members leave.
@@ -264,7 +264,7 @@
 * [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) ⭐ 2,497 | 🐛 19 | 🌐 Python | 📅 2026-08-26 - Uses sonic analysis and AI-powered clustering to create tempo and mood-based playlists via the Jellyfin API.
 * [jellyplist](https://github.com/kamilkosek/jellyplist) ⚠️ Archived - Utility for syncing Spotify playlists to Jellyfin. `🔹 Beta`
 * [JellyTunes](https://github.com/oriaflow-labs/jellytunes) ⭐ 31 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-21 - Sync your Jellyfin music library to any USB drive or SD card — with optional FLAC to MP3 conversion.
-* [jellyfin-theme-music-manager](https://github.com/akhilmulpurii/jellyfin-theme-music-manager) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-17 - Web application for managing theme songs and backdrop videos for Jellyfin libraries.
+* [jellyfin-theme-music-manager](https://github.com/akhilmulpurii/jellyfin-theme-music-manager) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-17 - Web application for managing theme songs and backdrop videos for Jellyfin libraries.
 * [MusicBrainz-UserScripts](https://github.com/Druidblack/MusicBrainz-UserScripts) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-03 - One-click importing of album from Jellyfin into MusicBrainz.
 * [Playlifin](https://gitlab.com/Krafting/playlifin-gtk) - Converts YouTube Music playlists to Jellyfin playlists.
 
@@ -272,9 +272,9 @@
 
 <!-- sort list:tools-import -->
 
-* [ytdl-sub](https://github.com/jmbannon/ytdl-sub) ⭐ 2,927 | 🐛 126 | 🌐 Python | 📅 2026-08-26 - Automates downloading and metadata generation with yt-dlp.
+* [ytdl-sub](https://github.com/jmbannon/ytdl-sub) ⭐ 2,928 | 🐛 126 | 🌐 Python | 📅 2026-08-26 - Automates downloading and metadata generation with yt-dlp.
 * [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) ⭐ 491 | 🐛 17 | 🌐 Python | 📅 2026-06-20 - Streams YouTube, Twitch and more via yt-dlp to Jellyfin.
-* [trailarr](https://github.com/nandyalu/trailarr) ⭐ 450 | 🐛 5 | 🌐 Python | 📅 2026-08-25 - Manages trailer downloads for your Radarr and Sonarr libraries.
+* [trailarr](https://github.com/nandyalu/trailarr) ⭐ 450 | 🐛 6 | 🌐 Python | 📅 2026-08-25 - Manages trailer downloads for your Radarr and Sonarr libraries.
 * [calibre2jellyfin](https://github.com/shawn61cp/calibre2jellyfin) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - Python script to construct a Jellyfin ebook library from a Calibre library.
 * [trailerfin](https://github.com/Pukabyte/trailerfin) ⭐ 41 | 🐛 6 | 🌐 Python | 📅 2025-07-12 - Automatically retrieves and creates STRM links to IMDb trailers and places them in the backdrops folder to view trailers on the details page.
 
@@ -282,8 +282,8 @@
 
 <!-- sort list:tools-admin -->
 
-* [Samsung-Jellyfin-Installer](https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer) ⭐ 1,900 | 🐛 2 | 🌐 C# | 📅 2026-08-22 - Cross-platform tool that helps you install Jellyfin on Samsung Smart TVs running Tizen OS.
-* [Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) ⭐ 869 | 🐛 26 | 🌐 Rust | 📅 2026-08-22 - Reverse proxy that lets you combine multiple Jellyfin servers into one virtual instance.
+* [Samsung-Jellyfin-Installer](https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer) ⭐ 1,902 | 🐛 4 | 🌐 C# | 📅 2026-08-27 - Cross-platform tool that helps you install Jellyfin on Samsung Smart TVs running Tizen OS.
+* [Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) ⭐ 870 | 🐛 27 | 🌐 Rust | 📅 2026-08-27 - Reverse proxy that lets you combine multiple Jellyfin servers into one virtual instance.
 * [autoscan](https://github.com/Cloudbox/autoscan) ⚠️ Archived - Replaces the default Plex and Emby behaviour for picking up changes on the file system. `🔸 Stale`
 * [autopulse](https://github.com/dan-online/autopulse) ⭐ 538 | 🐛 9 | 🌐 Rust | 📅 2026-08-23 - Lightweight automation service that updates Plex, Jellyfin, and Emby libraries based on notifications from media organizers like Sonarr and Radarr.
 * [xsrv.jellyfin](https://github.com/nodiscc/xsrv/tree/master/roles/jellyfin) ⭐ 405 | 🐛 0 | 🌐 Jinja | 📅 2026-08-26 - Ansible role to deploy and configure Jellyfin.
@@ -293,7 +293,7 @@
 * [JellyRoller](https://github.com/LSchallot/JellyRoller) ⭐ 122 | 🐛 0 | 🌐 Rust | 📅 2026-08-25 - A CLI Jellyfin Controller. `🔹 Beta`
 * [declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) ⭐ 91 | 🐛 2 | 🌐 Nix | 📅 2026-08-26 - Declarative configuration of your Jellyfin server on NixOS. `🔹 Beta`
 * [jellyhub](https://github.com/Zigl3ur/jellyhub) ⭐ 61 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-26 - Indexes media from multiple Jellyfin servers into a single searchable hub.
-* [jellyfin-helper](https://github.com/JellyPlugins/jellyfin-helper) ⭐ 41 | 🐛 1 | 🌐 C# | 📅 2026-08-26 - Server administration dashboard with cleanup tasks, library statistics, health checks, Arr/Seerr integration, backups, user insights, and on-device neural recommendations.
+* [jellyfin-helper](https://github.com/JellyPlugins/jellyfin-helper) ⭐ 41 | 🐛 1 | 🌐 C# | 📅 2026-08-27 - Server administration dashboard with cleanup tasks, library statistics, health checks, Arr/Seerr integration, backups, user insights, and on-device neural recommendations.
 * [ADRG](https://github.com/jaldertech/adrg) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-03-07 - Dynamic Docker resource governor using cgroups v2 to throttle background tasks during media activity.
 * [jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - Docker-based automatic 720p HEVC/AV1 transcoding service for Jellyfin libraries with NVIDIA and Intel hardware acceleration.
 * [JellySearch](https://gitlab.com/DomiStyle/jellysearch) - A fast full-text search proxy for Jellyfin using Meilisearch.
@@ -302,7 +302,7 @@
 
 <!-- sort list:tools-misc -->
 
-* [tunarr](https://github.com/chrisbenincasa/tunarr) ⭐ 2,542 | 🐛 185 | 🌐 TypeScript | 📅 2026-08-26 - Create custom live TV channels from your Plex or Jellyfin library with a web UI and IPTV support.
+* [tunarr](https://github.com/chrisbenincasa/tunarr) ⭐ 2,543 | 🐛 185 | 🌐 TypeScript | 📅 2026-08-26 - Create custom live TV channels from your Plex or Jellyfin library with a web UI and IPTV support.
 * [embyToLocalPlayer](https://github.com/kjtsune/embyToLocalPlayer) ⭐ 1,422 | 🐛 1 | 🌐 Python | 📅 2026-08-04 - Lets you watch videos from Jellyfin using a local video player (like VLC and MPV) and syncs watch progress back.
 * [jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) ⭐ 823 | 🐛 33 | 🌐 HTML | 📅 2026-01-26 - Collection of modifications and customizations for personalizing Jellyfin.
 * [KefinTweaks](https://github.com/ranaldsgift/KefinTweaks) ⭐ 626 | 🐛 46 | 🌐 JavaScript | 📅 2026-04-30 - Collection of UI enhancements and customization tweaks for Jellyfin.
@@ -333,20 +333,20 @@ This section includes software, guides and tools that are not *specifically* des
 
 <!-- sort list:related -->
 
-* [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) ⭐ 3,883 | 🐛 258 | 🌐 JavaScript | 📅 2026-08-26 - Self-hosted M3U proxy with IPTV, EPG, and VOD management support.
+* [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) ⭐ 3,886 | 🐛 258 | 🌐 JavaScript | 📅 2026-08-26 - Self-hosted M3U proxy with IPTV, EPG, and VOD management support.
 * [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) ⭐ 2,918 | 🐛 5 | 🌐 C# | 📅 2026-08-20 - Stream custom live channels using your own media. `🔹 Beta`
 * [Explo](https://github.com/LumePart/Explo) ⭐ 1,861 | 🐛 49 | 🌐 Go | 📅 2026-08-11 - Automated music discovery tool that recommends tracks based on your listening history.
-* [Threadfin](https://github.com/Threadfin/Threadfin) ⭐ 1,696 | 🐛 6 | 🌐 Go | 📅 2025-10-03 - M3U proxy for Jellyfin (Based on xTeVe).
-* [Multi Scrobbler](https://github.com/FoxxMD/multi-scrobbler) ⭐ 1,188 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-26 - Scrobbles music from many sources to many clients. `🔹 Beta`
+* [Threadfin](https://github.com/Threadfin/Threadfin) ⭐ 1,698 | 🐛 6 | 🌐 Go | 📅 2025-10-03 - M3U proxy for Jellyfin (Based on xTeVe).
+* [Multi Scrobbler](https://github.com/FoxxMD/multi-scrobbler) ⭐ 1,189 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-27 - Scrobbles music from many sources to many clients. `🔹 Beta`
 * [rffmpeg](https://github.com/joshuaboniface/rffmpeg) ⭐ 1,067 | 🐛 18 | 🌐 Python | 📅 2025-11-03 - A remote FFmpeg wrapper, commonly used for transcoding media on more capable machines.
 * [MediaTracker](https://github.com/bonukai/MediaTracker) ⭐ 929 | 🐛 142 | 🌐 TypeScript | 📅 2025-02-20 - Media tracker and user rating platform with [Jellyfin integration](https://github.com/bonukai/jellyfin-plugin-mediatracker) ⭐ 42 | 🐛 5 | 🌐 C# | 📅 2024-08-07. `🔸 Stale`
 * [Movary](https://github.com/leepeuker/movary) ⭐ 773 | 🐛 93 | 🌐 PHP | 📅 2026-08-08 - Media tracker and user rating platform. `🔹 Beta`
 * [locatarr](https://github.com/Locatarr/locatarr.github.io) ⭐ 480 | 🐛 1 | 📅 2026-07-24 - A list of tools used to automate the downloading and organization of media files.
-  * [sonarr](https://github.com/Sonarr/Sonarr) ⭐ 15,286 | 🐛 91 | 🌐 C# | 📅 2026-08-26 - Automates downloading & management of TV series.
-  * [radarr](https://github.com/Radarr/Radarr) ⭐ 14,236 | 🐛 528 | 🌐 C# | 📅 2026-08-25 - Automates downloading & management of movies.
-  * [tdarr](https://github.com/HaveAGitGat/Tdarr) ⭐ 4,284 | 🐛 49 | 🌐 Makefile | 📅 2026-08-05 - Distributed transcode automation + Library analytics + Video health checking. `🔺 Paid`
+  * [sonarr](https://github.com/Sonarr/Sonarr) ⭐ 15,292 | 🐛 94 | 🌐 C# | 📅 2026-08-26 - Automates downloading & management of TV series.
+  * [radarr](https://github.com/Radarr/Radarr) ⭐ 14,240 | 🐛 529 | 🌐 C# | 📅 2026-08-25 - Automates downloading & management of movies.
+  * [tdarr](https://github.com/HaveAGitGat/Tdarr) ⭐ 4,283 | 🐛 49 | 🌐 Makefile | 📅 2026-08-05 - Distributed transcode automation + Library analytics + Video health checking. `🔺 Paid`
   * [recyclarr](https://github.com/recyclarr/recyclarr) ⭐ 2,084 | 🐛 10 | 🌐 C# | 📅 2026-08-26 - Automatically sync TRaSH guides to Sonarr and Radarr instances.
-* [Quasarr](https://github.com/rix1337/Quasarr) ⭐ 153 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Emulates a usenet indexer and download client to allow direct downloads with sonarr/radarr.
+* [Quasarr](https://github.com/rix1337/Quasarr) ⭐ 153 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - Emulates a usenet indexer and download client to allow direct downloads with sonarr/radarr.
 * [speedrr](https://github.com/itschasa/speedrr) ⭐ 121 | 🐛 10 | 🌐 Python | 📅 2025-07-17 - Change your torrent client's upload speed dynamically, on certain events such as when a Plex/Jellyfin stream starts.
 * [TRaSH Guides](https://trash-guides.info/) - Easy-to-understand guides for Sonarr, Radarr, and Bazarr, along with related tools.
 
@@ -366,7 +366,7 @@ This section contains links to communities which focus on Jellyfin or related to
 ## Contribute
 
 Contributions welcome! But please read the [contribution guidelines](CONTRIBUTING.md) first.
-You can also [create a new issue](https://github.com/awesome-jellyfin/awesome-jellyfin/issues/new) ⭐ 9,070 | 🐛 36 | 🌐 Shell | 📅 2026-08-23.
+You can also [create a new issue](https://github.com/awesome-jellyfin/awesome-jellyfin/issues/new) ⭐ 9,071 | 🐛 36 | 🌐 Shell | 📅 2026-08-23.
 
 ***
 
