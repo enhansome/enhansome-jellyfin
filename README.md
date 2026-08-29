@@ -85,7 +85,7 @@
 
 * [intro-skipper](https://github.com/intro-skipper/intro-skipper) ⭐ 2,697 | 🐛 30 | 🌐 C# | 📅 2026-08-28 - Fingerprint audio to automatically detect intro and outro segments in Jellyfin.
 * [jellyfin-plugin-cinemamode](https://github.com/CherryFloors/jellyfin-plugin-cinemamode) ⭐ 154 | 🐛 25 | 🌐 HTML | 📅 2026-08-08 - Enables Jellyfin's Cinema Mode with local trailers and pre-rolls.
-* [TheIntroDB](https://github.com/TheIntroDB/jellyfin-plugin) ⭐ 98 | 🐛 4 | 🌐 C# | 📅 2026-08-23 - Community powered database of intro, recap, credits, and preview segments for movies and TV shows.
+* [TheIntroDB](https://github.com/TheIntroDB/jellyfin-plugin) ⭐ 98 | 🐛 6 | 🌐 C# | 📅 2026-08-29 - Community powered database of intro, recap, credits, and preview segments for movies and TV shows.
 * [Jellyfin.Plugin.StreamLimit](https://github.com/JellyboxAD/Jellyfin.Plugin.StreamLimit) ⭐ 78 | 🐛 1 | 🌐 C# | 📅 2026-07-17 - Allows limiting the number of simultaneous streams per user.
 * [jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ⭐ 66 | 🐛 9 | 🌐 C# | 📅 2026-06-22 - Adds sleep timer functionality to Jellyfin.
 * [jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ⭐ 39 | 🐛 10 | 🌐 C# | 📅 2026-04-13 - Lets you remove items from the Continue Watching list without resetting watch progress, with optional auto-hide after inactivity.
@@ -217,7 +217,7 @@
 
 * [Jellystat](https://github.com/CyferShepard/Jellystat) ⭐ 2,453 | 🐛 185 | 🌐 JavaScript | 📅 2026-08-07 - Statistics and analytics dashboard for Jellyfin.
 * [watchstate](https://github.com/arabcoders/watchstate) ⭐ 1,536 | 🐛 0 | 🌐 PHP | 📅 2026-08-21 - Syncs play state between different media servers.
-* [JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) ⭐ 1,038 | 🐛 33 | 🌐 Python | 📅 2026-06-04 - Syncs watch history between Jellyfin, Plex, and Emby Servers.
+* [JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) ⭐ 1,040 | 🐛 33 | 🌐 Python | 📅 2026-06-04 - Syncs watch history between Jellyfin, Plex, and Emby Servers.
 * [streamystats](https://github.com/fredrikburmester/streamystats) ⭐ 808 | 🐛 146 | 🌐 TypeScript | 📅 2026-08-09 - Statistics service for Jellyfin, providing analytics and data visualization.
 * [jellyfin-rewind](https://github.com/Chaphasilor/jellyfin-rewind) ⭐ 371 | 🐛 12 | 🌐 JavaScript | 📅 2026-01-17 - A *Spotify Wrapped*-like experience for Jellyfin music listeners.
 * [jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) ⭐ 37 | 🐛 6 | 🌐 Python | 📅 2025-03-11 - Monitors and enforces Jellyfin watch time limits per user, with API integration and a simple GUI. `🔸 Stale`
@@ -274,7 +274,7 @@
 
 * [ytdl-sub](https://github.com/jmbannon/ytdl-sub) ⭐ 2,927 | 🐛 126 | 🌐 Python | 📅 2026-08-26 - Automates downloading and metadata generation with yt-dlp.
 * [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) ⭐ 491 | 🐛 19 | 🌐 Python | 📅 2026-06-20 - Streams YouTube, Twitch and more via yt-dlp to Jellyfin.
-* [trailarr](https://github.com/nandyalu/trailarr) ⭐ 451 | 🐛 6 | 🌐 Python | 📅 2026-08-28 - Manages trailer downloads for your Radarr and Sonarr libraries.
+* [trailarr](https://github.com/nandyalu/trailarr) ⭐ 451 | 🐛 6 | 🌐 Python | 📅 2026-08-29 - Manages trailer downloads for your Radarr and Sonarr libraries.
 * [calibre2jellyfin](https://github.com/shawn61cp/calibre2jellyfin) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - Python script to construct a Jellyfin ebook library from a Calibre library.
 * [trailerfin](https://github.com/Pukabyte/trailerfin) ⭐ 41 | 🐛 6 | 🌐 Python | 📅 2025-07-12 - Automatically retrieves and creates STRM links to IMDb trailers and places them in the backdrops folder to view trailers on the details page.
 

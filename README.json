@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive enhancement layer for the Jellyfin web UI with keyboard shortcuts, subtitle styling, TMDB and User reviews, Seerr integration with auto-request, a media calendar and download monitor via Sonarr & Radarr, and a growing collection of quality-of-life improvements.",
+                "homepage": "https://n00bcodr.github.io/Jellyfin-Enhanced/",
                 "id": 1009499810,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T20:05:52Z",
+                "open_issues": 28,
                 "owner": "n00bcodr",
                 "repo": "Jellyfin-Enhanced",
-                "stars": 1699
+                "stars": 1699,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-community-plugin",
+                  "jellyfin-plugin",
+                  "jellyfin-web"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -28,12 +38,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smooth mouse-over video scrubbing previews for Jellyfin.",
+                "homepage": null,
                 "id": 519415381,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-11-10T21:56:14Z",
+                "open_issues": 33,
                 "owner": "nicknsy",
                 "repo": "jellyscrub",
-                "stars": 789
+                "stars": 789,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -44,12 +59,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin Skin Manager is a plugin that helps you to download and install skins",
+                "homepage": null,
                 "id": 310961075,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-05T10:03:14Z",
+                "open_issues": 42,
                 "owner": "danieladov",
                 "repo": "jellyfin-plugin-skin-manager",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "jellyfin",
+                  "skin-manager"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -60,12 +83,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add server provided home sections to your Jellyfin instance",
+                "homepage": null,
                 "id": 918997626,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T09:18:00Z",
+                "open_issues": 51,
                 "owner": "IAmParadox27",
                 "repo": "jellyfin-plugin-home-sections",
-                "stars": 489
+                "stars": 489,
+                "topics": [
+                  "dotnet",
+                  "jellyfin",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -76,12 +108,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin plugin for the web and client version, which displayes an episode list inside the player",
+                "homepage": null,
                 "id": 703551965,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T17:38:30Z",
+                "open_issues": 6,
                 "owner": "Namo2",
                 "repo": "InPlayerEpisodePreview",
-                "stars": 403
+                "stars": 403,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-client",
+                  "jellyfin-media-player",
+                  "jellyfin-plugin",
+                  "jellyfin-web",
+                  "preview",
+                  "preview-pane",
+                  "previewer"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -92,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin Featured Content Bar to show off your media collection",
+                "homepage": null,
                 "id": 928287327,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T09:21:52Z",
+                "open_issues": 10,
                 "owner": "IAmParadox27",
                 "repo": "jellyfin-plugin-media-bar",
-                "stars": 394
+                "stars": 394,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -108,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 791589994,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-05-22T03:55:42Z",
+                "open_issues": 24,
                 "owner": "lachlandcp",
                 "repo": "jellyfin-editors-choice-plugin",
-                "stars": 200
+                "stars": 200,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -124,12 +180,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows plugins to add pages to the main UI",
+                "homepage": null,
                 "id": 919020053,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T09:31:11Z",
+                "open_issues": 2,
                 "owner": "IAmParadox27",
                 "repo": "jellyfin-plugin-pages",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "dotnet",
+                  "jellyfin",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -140,12 +205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin to add custom tabs to the jellyfin-web title bar",
+                "homepage": null,
                 "id": 969295948,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-11T09:55:15Z",
+                "open_issues": 20,
                 "owner": "IAmParadox27",
                 "repo": "jellyfin-plugin-custom-tabs",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -156,12 +226,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Enhances the Jellyfin web interface with a smart media slider, hover trailers, smart recommendations, Netflix-style age badges, smart pause screens, advanced detail panels, notifications and many more UI enhancements for a richer user experience.",
+                "homepage": null,
                 "id": 956545959,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T19:04:07Z",
+                "open_issues": 0,
                 "owner": "G-grbz",
                 "repo": "Jellyfin-MonWUI-Plugin",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "avatar-generator",
+                  "avatar-selector",
+                  "details-module",
+                  "download-lyrics",
+                  "download-trailer",
+                  "home-cards",
+                  "hovertrailer",
+                  "jellyfin-plugin",
+                  "jellyfin-web",
+                  "music-player",
+                  "nfo-trailer",
+                  "notifications",
+                  "parental-control",
+                  "paused-screen",
+                  "seerr-arr",
+                  "slider",
+                  "smart-pause",
+                  "studio-collections",
+                  "subtitle-settings",
+                  "whos-watching"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -172,12 +268,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds metadata provider icons to  jellyfin",
+                "homepage": null,
                 "id": 929717954,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2026-02-19T12:41:59Z",
+                "open_issues": 2,
                 "owner": "Druidblack",
                 "repo": "jellyfin-icon-metadata",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-theme"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -188,12 +292,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin plugin to inject Javascript",
+                "homepage": null,
                 "id": 1029058051,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T15:57:27Z",
+                "open_issues": 2,
                 "owner": "n00bcodr",
                 "repo": "Jellyfin-JavaScript-Injector",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-community-plugin",
+                  "jellyfin-plugin",
+                  "jellyfin-web"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -204,12 +318,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin to add a section to the home screen for collections or playlists. Configured by the server admin.",
+                "homepage": null,
                 "id": 924693193,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-11T10:06:21Z",
+                "open_issues": 14,
                 "owner": "IAmParadox27",
                 "repo": "jellyfin-plugin-collection-sections",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "dotnet",
+                  "home-sections-plugin",
+                  "jellyfin",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -220,12 +344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Netflix-style video previews for Jellyfin",
+                "homepage": null,
                 "id": 1011412966,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-29T23:29:25Z",
+                "open_issues": 0,
                 "owner": "Fovty",
                 "repo": "HoverTrailer",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -236,12 +365,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best way to discover and request Movies and TV Shows through Seerr directly in Jellyfin.",
+                "homepage": null,
                 "id": 1244687539,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T15:10:34Z",
+                "open_issues": 19,
                 "owner": "varunaditya-plus",
                 "repo": "SeerrFin",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "seerr"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -252,12 +390,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin for seasonal themes/animations for Jellyfin Web",
+                "homepage": null,
                 "id": 905480870,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-10T00:18:09Z",
+                "open_issues": 2,
                 "owner": "CodeDevMLH",
                 "repo": "Jellyfin-Seasonals",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "jellyfin-seasonals",
+                  "jellyfin-seasonals-plugin",
+                  "jellyfin-web",
+                  "seasonals"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -268,12 +418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin for rating movies, series, and media with 1-10 star system and hover popup showing user ratings",
+                "homepage": null,
                 "id": 1094620354,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T22:08:22Z",
+                "open_issues": 7,
                 "owner": "K3ntas",
                 "repo": "jellyfin-plugin-ratings",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -284,12 +439,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin that allows users to choose an avatar from a collection of images.",
+                "homepage": null,
                 "id": 1139650784,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-17T17:46:50Z",
+                "open_issues": 1,
                 "owner": "cedev-1",
                 "repo": "jellyfin-plugin-GetAvatar",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "avatar",
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -300,12 +464,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin plugin that adds achievement-style badges to user profiles based on viewing activity. Users unlock badges for milestones such as first watch, binge sessions and late-night viewing. Designed to gamify the Jellyfin experience and encourage engagement across libraries.",
+                "homepage": null,
                 "id": 1179176738,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-17T06:15:52Z",
+                "open_issues": 11,
                 "owner": "ZL154",
                 "repo": "AchievementBadges_for_Jellyfin",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "achievements",
+                  "csharp",
+                  "dotnet",
+                  "gamification",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "jellyfin-web",
+                  "media-server",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -316,12 +495,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin — let users rate movies & TV shows with stars across each Jellyfin Instance",
+                "homepage": null,
                 "id": 1200942687,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T01:22:48Z",
+                "open_issues": 7,
                 "owner": "ZL154",
                 "repo": "jellyfin-plugin-startrack",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "letterboxd",
+                  "media-tracking",
+                  "movie-ratings",
+                  "ratings",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -332,12 +526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Jellyfin plugin that lets you upload and host static assets (images, CSS files, etc.) in your Jellyfin server.",
+                "homepage": null,
                 "id": 970407135,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-04-22T02:05:08Z",
+                "open_issues": 5,
                 "owner": "cleverdevil",
                 "repo": "jelly-static-assets",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -348,12 +547,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The plugin adds additional information to the actor's portrait and, when hovering over it with the cursor, the filmography. The plugin also shows a list of actors when you hover over the movie (TV series) poster. ",
+                "homepage": null,
                 "id": 1163766878,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-02-22T06:00:37Z",
+                "open_issues": 7,
                 "owner": "Druidblack",
                 "repo": "Jellyfin.Plugin.ActorPlus",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -364,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin Media Preview plugin for Trickplay and trailer hover previews.",
+                "homepage": null,
                 "id": 1247757720,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T05:56:23Z",
+                "open_issues": 1,
                 "owner": "spkesDE",
                 "repo": "jellyfin-media-preview-plugin",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -387,12 +599,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create dynamic playlists and collections in Jellyfin based on a set of rules, which will automatically update as your library changes.",
+                "homepage": "https://jellyfin-smartlists-plugin.dinsten.se",
                 "id": 1009676083,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T14:48:52Z",
+                "open_issues": 1,
                 "owner": "jyourstone",
                 "repo": "jellyfin-smartlists-plugin",
-                "stars": 331
+                "stars": 331,
+                "topics": [
+                  "collections-manager",
+                  "dynamic-collections",
+                  "dynamic-playlists",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "playlist-manager"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -403,12 +627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 976622530,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-02-13T08:33:33Z",
+                "open_issues": 56,
                 "owner": "KeksBombe",
                 "repo": "jellyfin-plugin-auto-collections",
-                "stars": 287
+                "stars": 287,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -419,12 +648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 841927260,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-06-03T11:35:54Z",
+                "open_issues": 12,
                 "owner": "lostb1t",
                 "repo": "jellyfin-plugin-collection-import",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -435,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin for jellyfin to create a daily playlist based on user preference",
+                "homepage": null,
                 "id": 847445541,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-19T18:40:15Z",
+                "open_issues": 0,
                 "owner": "Eeeeelias",
                 "repo": "playlist-generator",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -451,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1147731116,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-12T21:06:28Z",
+                "open_issues": 2,
                 "owner": "Kamoba",
                 "repo": "jellyfin-plugin-thedwarfshammer",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -467,12 +711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin that finds what's missing and related across your library and builds a todo list to fill the gaps: collections, series, cast & crew filmographies, and recommendations. Adds where-to-watch links and can optionally show missing entries as placeholders.",
+                "homepage": null,
                 "id": 1271531597,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-18T23:16:47Z",
+                "open_issues": 2,
                 "owner": "IDisposable",
                 "repo": "jellyfin-plugin-mindthegaps",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -483,12 +732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1053455666,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-09T21:23:04Z",
+                "open_issues": 6,
                 "owner": "kamilkosek",
                 "repo": "jellyfin-plugin-provider-stuff",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -499,12 +753,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically creates and updates a “Favorited Songs” playlist in Jellyfin containing all your favorited music tracks. The playlist syncs whenever you favorite or unfavorite a song, making it easy to play your favorited tracks without manual management.",
+                "homepage": null,
                 "id": 1073397022,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-19T00:40:03Z",
+                "open_issues": 1,
                 "owner": "Saturn745",
                 "repo": "jellyfin-favorited-songs-playlist",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "csharp",
+                  "jellyfin",
+                  "jellyfin-client",
+                  "jellyfin-plugin",
+                  "media-server"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -515,12 +780,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin for creating smart playlists based on audio similarity.",
+                "homepage": null,
                 "id": 1240277897,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T11:24:02Z",
+                "open_issues": 0,
                 "owner": "mxschll",
                 "repo": "jellyfin-harmonie",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "analyzer",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "playlist"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -531,12 +806,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://neilmanfredit.github.io/wikiepisodeorder-jellyfin-plugin/",
                 "id": 1275293593,
                 "language": "C#",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-12T10:18:56Z",
+                "open_issues": 0,
                 "owner": "neilmanfredit",
                 "repo": "wikiepisodeorder-jellyfin-plugin",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "episode-order",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "jellyfin-plugins",
+                  "media-server",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -547,12 +834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin version of the ACdb.tv plugin.",
+                "homepage": null,
                 "id": 1031337966,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-26T18:04:26Z",
+                "open_issues": 2,
                 "owner": "jonjonsson",
                 "repo": "Jellyfin.Plugin.ACdb",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -570,12 +862,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically detect and skip intro/credit sequences in Jellyfin",
+                "homepage": "https://discord.intro-skipper.org",
                 "id": 699346173,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T05:58:23Z",
+                "open_issues": 30,
                 "owner": "intro-skipper",
                 "repo": "intro-skipper",
-                "stars": 2697
+                "stars": 2697,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-mediasegment-provider",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -586,12 +887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enable Cinema Mode for Jellyfin",
+                "homepage": null,
                 "id": 587103686,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-08T16:29:27Z",
+                "open_issues": 25,
                 "owner": "CherryFloors",
                 "repo": "jellyfin-plugin-cinemamode",
-                "stars": 154
+                "stars": 154,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -602,12 +908,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin plugin to skip intros, recaps, and credits with TheIntroDB",
+                "homepage": "https://theintrodb.org",
                 "id": 1149978451,
                 "language": "C#",
-                "last_commit": "2026-08-23T21:43:41Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:51:21Z",
+                "open_issues": 6,
                 "owner": "TheIntroDB",
                 "repo": "jellyfin-plugin",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "skip-credits",
+                  "skip-intro"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -618,12 +934,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 908439339,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-17T22:41:02Z",
+                "open_issues": 1,
                 "owner": "JellyboxAD",
                 "repo": "Jellyfin.Plugin.StreamLimit",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -634,12 +955,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌙 A sleep timer plugin for Jellyfin.",
+                "homepage": null,
                 "id": 1019011883,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-22T09:06:23Z",
+                "open_issues": 9,
                 "owner": "jon4hz",
                 "repo": "jellyfin-plugin-jellysleep",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "sleep-timer"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -650,12 +980,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remove items from \"Continue Watching\" without loosing their watch progress",
+                "homepage": null,
                 "id": 1100150070,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-13T09:38:22Z",
+                "open_issues": 10,
                 "owner": "jon4hz",
                 "repo": "jellyfin-plugin-discontinue-watching",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "continue-watching",
+                  "discontinue-watching",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -666,12 +1005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configurable messages to users causing avoidable transcodes",
+                "homepage": null,
                 "id": 1140554592,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-29T01:40:12Z",
+                "open_issues": 1,
                 "owner": "voc0der",
                 "repo": "jellyfin-transcode-nag",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -682,12 +1026,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server-side Jellyfin plugin that deduplicates the Continue Watching row, showing only the most recently played episode per series. Works on all clients (Web, SwiftFin, Findroid, Wholphin, Android TV, etc).",
+                "homepage": null,
                 "id": 1223734293,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-29T20:19:23Z",
+                "open_issues": 2,
                 "owner": "SloMR",
                 "repo": "jellyfin-plugin-dedupe-continue-watching",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -705,12 +1054,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin Stremio Integration Plugin",
+                "homepage": null,
                 "id": 1045574930,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-31T07:44:05Z",
+                "open_issues": 30,
                 "owner": "lostb1t",
                 "repo": "Gelato",
-                "stars": 765
+                "stars": 765,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -721,12 +1075,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Displays the content you're currently watching on Discord!",
+                "homepage": null,
                 "id": 579463735,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-28T10:28:11Z",
+                "open_issues": 21,
                 "owner": "justradical",
                 "repo": "jellyfin-rpc",
-                "stars": 541
+                "stars": 541,
+                "topics": [
+                  "discord",
+                  "discord-presence",
+                  "discord-rich-presence",
+                  "jellyfin",
+                  "rich-presence",
+                  "rich-presence-discord",
+                  "rpc",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -737,12 +1105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Synchronize anime watch status between Jellyfin and anime tracking sites.",
+                "homepage": null,
                 "id": 443748162,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T18:21:37Z",
+                "open_issues": 25,
                 "owner": "vosmiic",
                 "repo": "jellyfin-ani-sync",
-                "stars": 480
+                "stars": 480,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -753,12 +1126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Companion server plugin for all Moonfin clients",
+                "homepage": "https://moonfin.io",
                 "id": 1152524572,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T22:53:41Z",
+                "open_issues": 9,
                 "owner": "Moonfin-Client",
                 "repo": "Plugin",
-                "stars": 356
+                "stars": 356,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -769,12 +1147,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Shokofin, a plugin that brings Shoko to Jellyfin.",
+                "homepage": "https://shokoanime.com",
                 "id": 292678502,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-19T18:28:43Z",
+                "open_issues": 2,
                 "owner": "ShokoAnime",
                 "repo": "Shokofin",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "anime",
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -785,12 +1172,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Companion plugin for Streamyfin",
+                "homepage": null,
                 "id": 845424503,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-27T17:37:33Z",
+                "open_issues": 18,
                 "owner": "streamyfin",
                 "repo": "jellyfin-plugin-streamyfin",
-                "stars": 297
+                "stars": 297,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -801,12 +1196,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ListenBrainz plugin for Jellyfin.",
+                "homepage": null,
                 "id": 356335727,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:12:22Z",
+                "open_issues": 19,
                 "owner": "lyarenei",
                 "repo": "jellyfin-plugin-listenbrainz",
-                "stars": 215
+                "stars": 215,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "listenbrainz"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -817,12 +1221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin plugin that creates per-user virtual libraries for personalized Trakt recommendations and new seasons. Seamlessly integrates with Jellyseerr/Radarr/Sonarr/CustomWebhook to trigger one-click downloads directly from Jellyfin.",
+                "homepage": null,
                 "id": 1088185194,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-24T14:39:31Z",
+                "open_issues": 12,
                 "owner": "luall0",
                 "repo": "jellynext",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -833,12 +1242,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin plug-in to integrate with a Plex Media Server",
+                "homepage": null,
                 "id": 956145337,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-15T01:27:28Z",
+                "open_issues": 14,
                 "owner": "cleverdevil",
                 "repo": "plexyfin",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "plex",
+                  "plex-media-server"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -849,12 +1268,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord RPC for Jellyfin that displays what you're watching or listening to",
+                "homepage": null,
                 "id": 799341267,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T04:19:22Z",
+                "open_issues": 5,
                 "owner": "kennethsible",
                 "repo": "jellyfin-rpc",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "discord",
+                  "discord-rich-presence",
+                  "discord-rpc",
+                  "jellyfin",
+                  "rich-presence"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -865,12 +1295,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin to synchronize anime watch status on myanimelist.net",
+                "homepage": null,
                 "id": 740828879,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T00:26:06Z",
+                "open_issues": 4,
                 "owner": "iankiller77",
                 "repo": "MyAnimeSync",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "anime",
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -881,12 +1320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterboxd diary.",
+                "homepage": "https://raw.githubusercontent.com/danielveigasilva/jellyfin-plugin-letterboxd-sync/master/manifest.json",
                 "id": 1048323755,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-05T20:08:42Z",
+                "open_issues": 0,
                 "owner": "Gizmo091",
                 "repo": "jellyfin-plugin-letterboxd-sync",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -897,12 +1341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental Plugin for Jellyfin that fetches anime themes (OPs and EDs) from animethemes.moe.",
+                "homepage": null,
                 "id": 670368975,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-11T19:23:43Z",
+                "open_issues": 10,
                 "owner": "EusthEnoptEron",
                 "repo": "jellyfin-plugin-animethemes",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -913,12 +1362,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin for Synchronizing Jellyfin activity with Stash: increases the number of views for each game session and displays the real viewing time, selected artists, favorite videos → Stash rating",
+                "homepage": null,
                 "id": 1146126444,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-05T08:05:37Z",
+                "open_issues": 0,
                 "owner": "Druidblack",
                 "repo": "Jellyfin.Plugin.JF_To_Stash_Sync",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "stash"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -936,12 +1394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 611335067,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-20T18:55:04Z",
+                "open_issues": 56,
                 "owner": "Cloud9Developer",
                 "repo": "Jellyfin-Newsletter-Plugin",
-                "stars": 167
+                "stars": 167,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -952,12 +1415,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin media server plugin to easily send notifications on Telegram!",
+                "homepage": "https://jellyfin.org/",
                 "id": 786093455,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-07T18:49:58Z",
+                "open_issues": 7,
                 "owner": "RomainPierre7",
                 "repo": "jellyfin-plugin-TelegramNotifier",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "notifications",
+                  "notifier",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -968,12 +1442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This plugin populates a list of recently added/deleted/updated media, sends out the newsletter to configured clients(email, discord webhook, telegram & matrix).",
+                "homepage": null,
                 "id": 991218286,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T14:42:54Z",
+                "open_issues": 7,
                 "owner": "Sanidhya30",
                 "repo": "Jellyfin-Newsletter",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -984,12 +1463,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NotifySync transforme l'interface de Jellyfin en ajoutant une icône de notification (cloche) native. Il permet à vos utilisateurs de voir instantanément les derniers ajouts (Films, Séries, Musique) sans quitter leur page actuelle, le tout avec un design fluide inspiré des plateformes de streaming majeures.",
+                "homepage": null,
                 "id": 1129715147,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:44:30Z",
+                "open_issues": 0,
                 "owner": "peterdu1109",
                 "repo": "NotifySync",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "dotnet9",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "jellyfin-ui",
+                  "notifications",
+                  "selfhosted"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1000,12 +1491,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Jellyfin media server plugin to send notifications on Discord ",
+                "homepage": "https://jellyfin.org/",
                 "id": 1011125927,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-23T12:19:31Z",
+                "open_issues": 7,
                 "owner": "cedev-1",
                 "repo": "jellyfin-plugin-DiscordNotifier",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "discord",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "notifier"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -1023,12 +1524,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.",
+                "homepage": null,
                 "id": 446603494,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-12T04:53:22Z",
+                "open_issues": 46,
                 "owner": "9p4",
                 "repo": "jellyfin-plugin-sso",
-                "stars": 1462
+                "stars": 1462,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "single-sign-on",
+                  "sso"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1039,12 +1550,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all clients including web, mobile, TV, and service integrations like Sonarr/Radarr.",
+                "homepage": null,
                 "id": 1209740432,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-20T18:50:48Z",
+                "open_issues": 18,
                 "owner": "ZL154",
                 "repo": "JellyfinSecurity",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "authentication",
+                  "csharp",
+                  "dotnet",
+                  "fido2",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "mfa",
+                  "oidc",
+                  "passkey",
+                  "security",
+                  "self-hosted",
+                  "sso",
+                  "totp",
+                  "two-factor-authentication",
+                  "webauthn"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1055,12 +1587,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LDAP Authentication for Jellyfin",
+                "homepage": "https://jellyfin.org",
                 "id": 177747742,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-24T21:37:33Z",
+                "open_issues": 60,
                 "owner": "jellyfin",
                 "repo": "jellyfin-plugin-ldapauth",
-                "stars": 220
+                "stars": 220,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1071,12 +1608,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram Login Widget Authentication Plugin for Jellyfin",
+                "homepage": null,
                 "id": 602276374,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-17T07:49:03Z",
+                "open_issues": 0,
                 "owner": "hexxone",
                 "repo": "TeleJelly",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "authentication",
+                  "c-sharp",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "jellyfin-sso",
+                  "sso",
+                  "sso-client",
+                  "telegram",
+                  "telegram-bot",
+                  "telegram-login",
+                  "telegram-login-widget",
+                  "telegrambot"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1087,12 +1642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Discord OAuth to login to Jellyfin",
+                "homepage": null,
                 "id": 1051816327,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-06-14T21:48:15Z",
+                "open_issues": 0,
                 "owner": "EvanTrow",
                 "repo": "Jellyfin-Discord-Auth",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -1110,12 +1670,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A search plugin for Jellyfin",
+                "homepage": null,
                 "id": 883797616,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-21T18:33:03Z",
+                "open_issues": 11,
                 "owner": "arnesacnussem",
                 "repo": "jellyfin-plugin-meilisearch",
-                "stars": 322
+                "stars": 322,
+                "topics": [
+                  "jellyfin-plugin",
+                  "meilisearch"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1126,12 +1694,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically delete media according to configurable rules.",
+                "homepage": null,
                 "id": 387136588,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-30T17:44:19Z",
+                "open_issues": 24,
                 "owner": "shemanaev",
                 "repo": "jellyfin-plugin-media-cleaner",
-                "stars": 258
+                "stars": 258,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1142,12 +1718,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin Plugin to force a few settings without modification of any web files.",
+                "homepage": null,
                 "id": 970847942,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T15:49:38Z",
+                "open_issues": 3,
                 "owner": "n00bcodr",
                 "repo": "JellyfinTweaks",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-community-plugin",
+                  "jellyfin-plugin",
+                  "jellyfin-web"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1158,12 +1744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This jellyfin plugin automatically adds language tags to the media.",
+                "homepage": null,
                 "id": 935023907,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-31T18:25:16Z",
+                "open_issues": 17,
                 "owner": "TheXaman",
                 "repo": "jellyfin-plugin-languageTags",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1174,12 +1765,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server",
+                "homepage": null,
                 "id": 1110874237,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T21:29:57Z",
+                "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "whisper-subs",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "accessibility",
+                  "ai",
+                  "automation",
+                  "csharp",
+                  "dotnet",
+                  "hacktoberfest",
+                  "homelab",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "media-management",
+                  "media-server",
+                  "open-source",
+                  "parakeet",
+                  "self-hosted",
+                  "speech-to-text",
+                  "stt",
+                  "subtitles",
+                  "transcription",
+                  "whisper",
+                  "whisper-cpp"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1190,12 +1807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Versatile Jellyfin media-manager that enhances remote features like remote downloads, remote file uploads, direct file download from URL, bulk direct download queues from URLs, directory browsing and more.",
+                "homepage": null,
                 "id": 840731615,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-10T09:15:07Z",
+                "open_issues": 3,
                 "owner": "GrandguyJS",
                 "repo": "media-upload-plugin",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1206,12 +1828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin that syncs Xtream VOD and Series content to native libraries via STRM files",
+                "homepage": null,
                 "id": 1146633693,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-08-28T04:03:50Z",
+                "open_issues": 3,
                 "owner": "firestaerter3",
                 "repo": "Jellyfin-Xtream-Library",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1222,12 +1849,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ein Plugin mit dem Sendungen von den Mediatheken der Öffentlich Rechtlichen heruntergladen werden können.",
+                "homepage": "https://catnoir2006.github.io/jellyfin-plugin-MediathekViewDL/",
                 "id": 1109439648,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T05:22:00Z",
+                "open_issues": 15,
                 "owner": "CatNoir2006",
                 "repo": "jellyfin-plugin-MediathekViewDL",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1238,12 +1873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin Ignore is a jellyfin plugin that can be used to exclude paths from a library",
+                "homepage": null,
                 "id": 617973543,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-07T13:51:05Z",
+                "open_issues": 4,
                 "owner": "fdett",
                 "repo": "jellyfin-ignore",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1254,12 +1894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin plugin that automatically extracts metadata from audio files - such as ID3 tags, Vorbis comments, and more - and converts them into standard Jellyfin tags.",
+                "homepage": null,
                 "id": 1024257267,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-27T15:53:30Z",
+                "open_issues": 0,
                 "owner": "jyourstone",
                 "repo": "jellyfin-musictags-plugin",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1270,12 +1915,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privacy-first personalized recommendations for Jellyfin - local watch history analysis with zero tracking",
+                "homepage": null,
                 "id": 1123431880,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-30T19:57:30Z",
+                "open_issues": 8,
                 "owner": "rdpharr",
                 "repo": "jellyfin-plugin-localrecs",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "content-based-filtering",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "media-server",
+                  "plugin",
+                  "privacy",
+                  "recommendations"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1286,12 +1944,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 929964341,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-23T08:37:05Z",
+                "open_issues": 16,
                 "owner": "NooNameR",
                 "repo": "Jellyfin.Plugin.LocalPosters",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1302,12 +1965,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of plugins to enhance Jellyfin media server with additional features and tools.",
+                "homepage": null,
                 "id": 1075197335,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-07-16T01:43:52Z",
+                "open_issues": 3,
                 "owner": "lennykean",
                 "repo": "jellyfin-powertoys",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1318,12 +1986,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 205162955,
                 "language": "C#",
+                "license": "CC0-1.0",
                 "last_commit": "2024-06-22T18:18:07Z",
+                "open_issues": 16,
                 "owner": "knackebrot",
                 "repo": "jellyfin-plugin-enigma2",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1334,12 +2007,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin that probes STRM files to extract media information (codec, resolution, duration, audio). Jellyfin skips STRM files during library scans — this plugin fills that gap.",
+                "homepage": "https://firestaerter3.github.io/jellyfin-plugin-repo/manifest.json",
                 "id": 1153960739,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-07-12T08:04:38Z",
+                "open_issues": 1,
                 "owner": "firestaerter3",
                 "repo": "JellySTRMprobe",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "ffprobe",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "media-info",
+                  "strm"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1350,12 +2034,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Localise Jellyfin series air times.",
+                "homepage": null,
                 "id": 959654882,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-04T07:06:12Z",
+                "open_issues": 2,
                 "owner": "k0d13",
                 "repo": "jellyfin-air-times",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1366,12 +2055,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin for fallback cover extraction from PDF, EPUB, and audiobook files",
+                "homepage": null,
                 "id": 1167556867,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-01T10:34:30Z",
+                "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "smart-covers",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "audiobook",
+                  "book",
+                  "cover-art",
+                  "csharp",
+                  "docker",
+                  "dotnet",
+                  "ebook",
+                  "epub",
+                  "ffmpeg",
+                  "hacktoberfest",
+                  "homelab",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "library-management",
+                  "media-management",
+                  "media-server",
+                  "metadata",
+                  "open-source",
+                  "pdf",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1382,12 +2097,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin to restrict users to specific media versions based on path-based policies",
+                "homepage": null,
                 "id": 1128182141,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T16:47:02Z",
+                "open_issues": 1,
                 "owner": "GeiserX",
                 "repo": "quality-gate",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "4k",
+                  "access-control",
+                  "bandwidth",
+                  "csharp",
+                  "docker",
+                  "dotnet",
+                  "hacktoberfest",
+                  "homelab",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "media-management",
+                  "media-server",
+                  "multi-version",
+                  "open-source",
+                  "quality-control",
+                  "self-hosted",
+                  "streaming",
+                  "transcoding",
+                  "user-management",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1398,12 +2139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1242887365,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-05-24T18:28:54Z",
+                "open_issues": 0,
                 "owner": "upchui",
                 "repo": "Jellyfin-GhostLibrary",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1414,12 +2160,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AniLiberty library reconstruction system for Jellyfin: STRM generation, metadata governance, HLS playback proxy, and diagnostics.",
+                "homepage": "https://github.com/queukat/AniLibriaStrmPlugin/releases",
                 "id": 968188373,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T21:35:39Z",
+                "open_issues": 0,
                 "owner": "queukat",
                 "repo": "AniLibriaStrmPlugin",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "aniliberty",
+                  "anilibria",
+                  "anime",
+                  "csharp",
+                  "docker",
+                  "dotnet",
+                  "hls",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "media-server",
+                  "metadata",
+                  "streaming",
+                  "strm"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -1437,12 +2202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Youtube Metadata Plugin for Jellyfin",
+                "homepage": null,
                 "id": 255025941,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-05T08:30:32Z",
+                "open_issues": 40,
                 "owner": "ankenyr",
                 "repo": "jellyfin-youtube-metadata-plugin",
-                "stars": 779
+                "stars": 779,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1453,12 +2223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin/Emby Metadata Provider",
+                "homepage": "https://theporndb.net",
                 "id": 359266107,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-02T17:28:27Z",
+                "open_issues": 10,
                 "owner": "ThePornDatabase",
                 "repo": "Jellyfin.Plugin.ThePornDB",
-                "stars": 575
+                "stars": 575,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1469,12 +2244,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin/Emby Metadata Provider for videos from multiple adult sites",
+                "homepage": null,
                 "id": 266808763,
                 "language": "C#",
+                "license": "GPL-2.0",
                 "last_commit": "2024-10-29T20:49:58Z",
+                "open_issues": 42,
                 "owner": "DirtyRacer1337",
                 "repo": "Jellyfin.Plugin.PhoenixAdult",
-                "stars": 447
+                "stars": 447,
+                "topics": [
+                  "adult",
+                  "emby",
+                  "emby-plugin",
+                  "jellyfin",
+                  "jellyfin-metadata-provider",
+                  "jellyfin-plugin",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1485,12 +2273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fetches metadata from kinopoisk",
+                "homepage": null,
                 "id": 277291789,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-22T15:41:08Z",
+                "open_issues": 13,
                 "owner": "LinFor",
                 "repo": "jellyfin-plugin-kinopoisk",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1501,12 +2294,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin metadata and cover art integration for the https://onepace.net/ project",
+                "homepage": "https://onepace.net/",
                 "id": 597874658,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-29T00:34:55Z",
+                "open_issues": 25,
                 "owner": "jwueller",
                 "repo": "jellyfin-plugin-onepace",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "onepace"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1517,12 +2319,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apple Music metadata provider for Jellyfin",
+                "homepage": null,
                 "id": 636571471,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-28T17:13:14Z",
+                "open_issues": 5,
                 "owner": "lyarenei",
                 "repo": "jellyfin-plugin-applemusic",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "apple-music",
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1533,12 +2344,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin for getting ratings from a website mdblist.com for movies and TV series.",
+                "homepage": null,
                 "id": 1150393787,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-14T11:26:59Z",
+                "open_issues": 14,
                 "owner": "Druidblack",
                 "repo": "Jellyfin.Plugin.MDBList_Ratings",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1549,12 +2368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pulls data from your Stash using the filename to query on",
+                "homepage": null,
                 "id": 594795315,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-03T12:32:09Z",
+                "open_issues": 8,
                 "owner": "DirtyRacer1337",
                 "repo": "Jellyfin.Plugin.Stash",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1565,12 +2389,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This plugin adds a metadata provider for MyAnimeList anime",
+                "homepage": null,
                 "id": 847077848,
                 "language": "C#",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-25T21:06:21Z",
+                "open_issues": 2,
                 "owner": "ryandash",
                 "repo": "jellyfin-plugin-myanimelist",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "csharp",
+                  "jellyfin",
+                  "jellyfin-metadata-provider",
+                  "jellyfin-plugin",
+                  "jikan-api",
+                  "myanimelist",
+                  "myanimelist-api"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1581,12 +2418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Updates Jellyfin IMDb ratings in under a minute on schedule",
+                "homepage": null,
                 "id": 1167669124,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-25T17:48:35Z",
+                "open_issues": 3,
                 "owner": "voc0der",
                 "repo": "jellyfin-imdb-rating-updater",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1597,12 +2439,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin metadata provider for anime from shikimori.io",
+                "homepage": null,
                 "id": 802576007,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-21T14:59:55Z",
+                "open_issues": 0,
                 "owner": "te9c",
                 "repo": "jellyfin-plugin-shikimori",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-metadata-provider",
+                  "jellyfin-plugin",
+                  "shikimori"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1613,12 +2465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1106026357,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-10T11:00:41Z",
+                "open_issues": 5,
                 "owner": "webbster64",
                 "repo": "jellyfin-plugin-AnimeMultiSource",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1629,12 +2486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin plugin that automatically tags movies that were nominated for or won an Oscar.",
+                "homepage": null,
                 "id": 1185540207,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-05-17T16:01:35Z",
+                "open_issues": 0,
                 "owner": "FizzyMUC",
                 "repo": "jellyfin-oscars-plugin",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1645,12 +2507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Цей плагін додає провайдери метаданих та зображень для аніме, манги та ранобе з сайту Hikka.io",
+                "homepage": null,
                 "id": 912133318,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-28T16:57:16Z",
+                "open_issues": 1,
                 "owner": "HotMasya",
                 "repo": "jellyfin-plugin-hikka",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1661,12 +2528,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin that receives images of posters and logos from themoviedb and tvdb sites and sorts them together.  The first images are in the language of the library, then in English.",
+                "homepage": null,
                 "id": 1163474953,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-02-21T19:05:50Z",
+                "open_issues": 3,
                 "owner": "Druidblack",
                 "repo": "Jellyfin.Plugin.ArtworkMultiSource",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1677,12 +2552,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin that adds JustWatch external IDs and clickable deep-links to movies, series, seasons, and episodes - plus an opt-in task to auto-resolve them via JustWatch's API.",
+                "homepage": null,
                 "id": 1270797682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-18T03:35:15Z",
+                "open_issues": 4,
                 "owner": "IDisposable",
                 "repo": "jellyfin-plugin-justwatch",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "justwatch-api"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -1706,12 +2590,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖼️ Automated asset maker for Plex/Jellyfin/Emby.",
+                "homepage": "https://fscorrupt.github.io/posterizarr/",
                 "id": 751781457,
                 "language": "PowerShell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T20:10:28Z",
+                "open_issues": 4,
                 "owner": "fscorrupt",
                 "repo": "posterizarr",
-                "stars": 921
+                "stars": 921,
+                "topics": [
+                  "arr",
+                  "assets",
+                  "imagemagick"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1722,12 +2615,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated title card maker for Plex, Jellyfin, and Emby",
+                "homepage": "https://titlecardmaker.com/",
                 "id": 420548535,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T01:57:57Z",
+                "open_issues": 108,
                 "owner": "TitleCardMaker",
                 "repo": "TitleCardMaker",
-                "stars": 854
+                "stars": 854,
+                "topics": [
+                  "docker",
+                  "emby",
+                  "emby-server",
+                  "jellyfin",
+                  "plex",
+                  "plex-media-server",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1738,12 +2644,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily create covers and posters for your Jellyfin libraries!",
+                "homepage": "https://jfcovers.jan.run/",
                 "id": 1030350905,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-22T18:56:49Z",
+                "open_issues": 3,
                 "owner": "KartoffelChipss",
                 "repo": "Jellyfin-Cover-Maker",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "jellyfin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1754,12 +2667,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pixelfin: Jellyfin Artwork Inspector",
+                "homepage": null,
                 "id": 1039315646,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-26T16:44:03Z",
+                "open_issues": 0,
                 "owner": "nothing2obvi",
                 "repo": "pixelfin",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "images",
+                  "jellyfin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1770,12 +2691,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Replaces jellyfish ratings with ratings from various sources (IMDb, Trakt, Imdb, Letterboxd, Tomato, Popcorn, Metacritic, RogerEbert, and MyAnimeList) obtained from mdblist.com",
+                "homepage": null,
                 "id": 984928742,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-02-05T09:46:02Z",
+                "open_issues": 2,
                 "owner": "Druidblack",
                 "repo": "jellyfin_ratings",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-web",
+                  "userscript",
+                  "userscripts"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1786,12 +2717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Non-plugin tools for helping manage a Jellyfin library. ",
+                "homepage": null,
                 "id": 617870704,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T01:15:03Z",
+                "open_issues": 0,
                 "owner": "eebette",
                 "repo": "jellyfin-tools",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1802,12 +2738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make Covers for Your Library",
+                "homepage": "https://jeffersoncgo.github.io/CoverMaker/",
                 "id": 985531078,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-14T13:54:06Z",
+                "open_issues": 2,
                 "owner": "jeffersoncgo",
                 "repo": "CoverMaker",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1818,12 +2759,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to generate fancy animated library cards for use with Jellyfin's UI.",
+                "homepage": null,
                 "id": 949192229,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-21T07:26:48Z",
+                "open_issues": 2,
                 "owner": "cleverdevil",
                 "repo": "jellytools",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-web"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1834,12 +2783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 817712954,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-12T09:30:53Z",
+                "open_issues": 0,
                 "owner": "Iceshadow1404",
                 "repo": "JellyfinUpdatePoster",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1850,12 +2804,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A program for creating posters marked with HDR",
+                "homepage": null,
                 "id": 842903821,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-15T11:49:52Z",
+                "open_issues": 0,
                 "owner": "Druidblack",
                 "repo": "jellyfin-poster-hrd-logo",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "jellyfin",
+                  "tmdb-api"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1866,12 +2828,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python program that exports metadata images from Jellyfin's library folder and places them into the same folder structure as your video files on the file system. ",
+                "homepage": "https://kurotaku.dev",
                 "id": 1008506648,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-05T01:14:29Z",
+                "open_issues": 2,
                 "owner": "Kurotaku-sama",
                 "repo": "Jellyfin-Image-Exporter",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "exporter",
+                  "jellyfin",
+                  "metadata",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -1889,12 +2861,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+                "homepage": "https://docs.seerr.dev",
                 "id": 467856408,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:14:53Z",
+                "open_issues": 374,
                 "owner": "seerr-team",
                 "repo": "seerr",
-                "stars": 12419
+                "stars": 12419,
+                "topics": [
+                  "docker",
+                  "emby",
+                  "jellyfin",
+                  "movie",
+                  "notifications",
+                  "nzb",
+                  "plex",
+                  "radarr",
+                  "sonarr",
+                  "tv"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1905,12 +2893,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr",
+                "homepage": null,
                 "id": 656912696,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-02-19T13:29:08Z",
+                "open_issues": 67,
                 "owner": "aleksilassila",
                 "repo": "reiverr",
-                "stars": 2343
+                "stars": 2343,
+                "topics": [
+                  "jellyfin",
+                  "movies",
+                  "radarr",
+                  "sonarr",
+                  "tmdb",
+                  "tv"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1921,12 +2921,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!",
+                "homepage": "https://giuseppe99barchetta.github.io/SuggestArr/",
                 "id": 872358547,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:36:08Z",
+                "open_issues": 14,
                 "owner": "giuseppe99barchetta",
                 "repo": "SuggestArr",
-                "stars": 1294
+                "stars": 1294,
+                "topics": [
+                  "automation",
+                  "docker",
+                  "emby",
+                  "jellyfin",
+                  "jellyseerr",
+                  "llm",
+                  "media-automation",
+                  "ombi",
+                  "open-source",
+                  "openai",
+                  "overseerr",
+                  "plex",
+                  "self-hosted",
+                  "tmdb",
+                  "trakt"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1937,12 +2958,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swipe on what to watch next.",
+                "homepage": "https://swiparr.com",
                 "id": 1123294669,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-22T11:19:11Z",
+                "open_issues": 19,
                 "owner": "m3sserstudi0s",
                 "repo": "swiparr",
-                "stars": 778
+                "stars": 778,
+                "topics": [
+                  "arr",
+                  "home-lab",
+                  "movies-streaming",
+                  "tinder-clone"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1953,12 +2984,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal and lightweight audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin",
+                "homepage": "https://github.com/markbeep/AudioBookRequest/wiki/",
                 "id": 933290195,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T05:42:57Z",
+                "open_issues": 49,
                 "owner": "markbeep",
                 "repo": "AudioBookRequest",
-                "stars": 698
+                "stars": 698,
+                "topics": [
+                  "audiobook",
+                  "audiobookshelf",
+                  "jellyfin",
+                  "plex"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1969,12 +3010,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw",
+                "homepage": "https://soluify.com",
                 "id": 861398223,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-30T01:29:15Z",
+                "open_issues": 19,
                 "owner": "Woahai321",
                 "repo": "list-sync",
-                "stars": 334
+                "stars": 334,
+                "topics": [
+                  "docker",
+                  "imdb",
+                  "imdb-scraper",
+                  "imdb-webscrapping",
+                  "jellyfin",
+                  "jellyseerr",
+                  "overseerr",
+                  "plex",
+                  "plex-media-server",
+                  "python",
+                  "radarr",
+                  "selenium",
+                  "seleniumbase",
+                  "sonarr",
+                  "trakt",
+                  "trakt-tv",
+                  "webscraping"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -1985,12 +3049,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord bot for requesting movies/TV and receiving notifications when items are added to your media server.",
+                "homepage": "https://anchorr.nairdah.me",
                 "id": 1063622852,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2026-08-27T11:30:35Z",
+                "open_issues": 3,
                 "owner": "openVESSL",
                 "repo": "Anchorr",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "anchorr",
+                  "discord-bot",
+                  "jellyfin",
+                  "jellyseerr"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2001,12 +3075,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ScenePeek is a TMDB and Jellyseerr / Overseerr / Seerr client for android and iOS. This project is now hosted on Codeberg! Check us out there. https://codeberg.org/Divinelink/scenepeek ",
+                "homepage": "https://www.scenepeek.app",
                 "id": 591263329,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T17:38:40Z",
+                "open_issues": 8,
                 "owner": "Divinelink",
                 "repo": "scenepeek-android",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "android",
+                  "compose-multiplatform",
+                  "ios",
+                  "jellyseerr",
+                  "jetpack-compose",
+                  "seerr",
+                  "self-hosted",
+                  "themoviedb",
+                  "themoviedb-org",
+                  "tmdb"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2017,12 +3107,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WhatsApp bot for Seerr that allows users to search and request media via WhatsApp messages",
+                "homepage": null,
                 "id": 1119112177,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-22T05:48:29Z",
+                "open_issues": 3,
                 "owner": "SuFxGIT",
                 "repo": "whatseerr",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "automation",
+                  "bot",
+                  "docker",
+                  "jellyseerr",
+                  "movie",
+                  "notifications",
+                  "overseerr",
+                  "plex",
+                  "request",
+                  "seerr",
+                  "tv",
+                  "waha",
+                  "whatsapp",
+                  "whatseerr"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2033,12 +3143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "this is an injection mod for jellyfin that adds a thumbs up, comments section and reccomended by users page",
+                "homepage": null,
                 "id": 1013969331,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-05T19:46:59Z",
+                "open_issues": 2,
                 "owner": "BobHasNoSoul",
                 "repo": "jellyfin-updoot",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2049,12 +3164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://jeffersoncgo.github.io/content-recommender/",
                 "id": 1017708839,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-21T23:51:58Z",
+                "open_issues": 0,
                 "owner": "jeffersoncgo",
                 "repo": "content-recommender",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -2072,12 +3192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellystat is a free and open source Statistics App for Jellyfin",
+                "homepage": null,
                 "id": 611092287,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T23:28:48Z",
+                "open_issues": 185,
                 "owner": "CyferShepard",
                 "repo": "Jellystat",
-                "stars": 2453
+                "stars": 2453,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2088,12 +3213,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.",
+                "homepage": null,
                 "id": 457795171,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-21T15:25:08Z",
+                "open_issues": 0,
                 "owner": "arabcoders",
                 "repo": "watchstate",
-                "stars": 1536
+                "stars": 1536,
+                "topics": [
+                  "backup",
+                  "docker",
+                  "emby",
+                  "jellyfin",
+                  "matched",
+                  "misidentified",
+                  "mismatched",
+                  "plex",
+                  "watchstate",
+                  "webhook"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2104,12 +3245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sync watched status between jellyfin, plex and emby locally",
+                "homepage": null,
                 "id": 494873610,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-04T16:41:54Z",
+                "open_issues": 33,
                 "owner": "luigi311",
                 "repo": "JellyPlex-Watched",
-                "stars": 1038
+                "stars": 1040,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2120,12 +3266,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.",
+                "homepage": null,
                 "id": 880525372,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-09T05:23:01Z",
+                "open_issues": 146,
                 "owner": "fredrikburmester",
                 "repo": "streamystats",
-                "stars": 808
+                "stars": 808,
+                "topics": [
+                  "jellyfin",
+                  "nextjs",
+                  "phoenix",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2136,12 +3292,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Review Your Music of 2025. A \"Spotify Wrapped\"-like app made for people who use Jellyfin for listening to music!",
+                "homepage": "https://jellyfin-rewind.chaphasilor.xyz",
                 "id": 552061517,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-01-17T23:01:58Z",
+                "open_issues": 12,
                 "owner": "Chaphasilor",
                 "repo": "jellyfin-rewind",
-                "stars": 371
+                "stars": 371,
+                "topics": [
+                  "arrowjs",
+                  "jellyfin",
+                  "media",
+                  "music",
+                  "opensource",
+                  "rewind",
+                  "self-hosting",
+                  "spotify",
+                  "wrapped"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2152,12 +3323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin screen time limiter",
+                "homepage": null,
                 "id": 889148061,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-11T18:28:14Z",
+                "open_issues": 6,
                 "owner": "Joker-KP",
                 "repo": "jelly-watch-wise",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2168,12 +3344,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 946238693,
                 "language": "Go",
+                "license": "Unlicense",
                 "last_commit": "2026-02-23T18:07:21Z",
+                "open_issues": 0,
                 "owner": "Simon-Eklundh",
                 "repo": "jellyfin-watch-updater",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-media-cleaner"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -2191,12 +3375,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.",
+                "homepage": "https://docs.wizarr.dev",
                 "id": 535751429,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:24:07Z",
+                "open_issues": 154,
                 "owner": "wizarrrr",
                 "repo": "wizarr",
-                "stars": 3174
+                "stars": 3174,
+                "topics": [
+                  "emby",
+                  "inviter",
+                  "jellyfin",
+                  "management",
+                  "plex",
+                  "selfhosted",
+                  "user"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2207,12 +3404,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a bit-of-everything user management app for Jellyfin",
+                "homepage": "https://jfa-go.com",
                 "id": 283603143,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-10T07:57:23Z",
+                "open_issues": 42,
                 "owner": "hrfee",
                 "repo": "jfa-go",
-                "stars": 1179
+                "stars": 1179,
+                "topics": [
+                  "emby",
+                  "jellyfin",
+                  "jellyfin-accounts",
+                  "jellyseerr",
+                  "ombi"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2223,12 +3431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The jf-avatars project is a JavaScript application that allows users to select avatars from an image gallery in a Jellyfin-compatible environment. This feature uses a custom modal to provide a visual interface where users can browse, filter, and choose a profile picture.",
+                "homepage": null,
                 "id": 873747768,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-14T15:10:25Z",
+                "open_issues": 0,
                 "owner": "kalibrado",
                 "repo": "jf-avatars",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2239,12 +3452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Discord companion bot for managing your JFA-GO instance. Streamline invites and user management directly from Discord.",
+                "homepage": null,
                 "id": 981101078,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-10T08:32:19Z",
+                "open_issues": 0,
                 "owner": "SiddheshDongare",
                 "repo": "Jellycord",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2255,12 +3473,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sync Jellyfin user access with Telegram channel membership - auto-disable accounts when members leave",
+                "homepage": null,
                 "id": 956773680,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-01T10:35:03Z",
+                "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "jellyfin-telegram-channel-sync",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "access-control",
+                  "automation",
+                  "bot",
+                  "channel",
+                  "docker",
+                  "hacktoberfest",
+                  "homelab",
+                  "jellyfin",
+                  "media-management",
+                  "media-server",
+                  "membership",
+                  "open-source",
+                  "python",
+                  "self-hosted",
+                  "streaming",
+                  "sync",
+                  "telegram",
+                  "telegram-bot",
+                  "user-management",
+                  "user-sync"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -2278,12 +3522,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "media file renaming and organizing tool",
+                "homepage": "https://pypi.org/project/mnamer",
                 "id": 107178928,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-05T05:51:28Z",
+                "open_issues": 121,
                 "owner": "jkwill87",
                 "repo": "mnamer",
-                "stars": 1142
+                "stars": 1142,
+                "topics": [
+                  "batch",
+                  "cli",
+                  "media",
+                  "metadata",
+                  "movie",
+                  "organizer",
+                  "python",
+                  "television"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2294,12 +3552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CineSync is a Python based library management tool designed to organize debrid & local libraries without the support of Sonarr & Radarr",
+                "homepage": "https://sureshfizzy.github.io/CineSync/",
                 "id": 799435307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:48:34Z",
+                "open_issues": 43,
                 "owner": "sureshfizzy",
                 "repo": "CineSync",
-                "stars": 375
+                "stars": 375,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2310,12 +3573,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically make jellyfin collections from IMDB, Letterboxd lists and more.",
+                "homepage": null,
                 "id": 501612725,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-23T20:48:19Z",
+                "open_issues": 41,
                 "owner": "ghomasHudson",
                 "repo": "Jellyfin-Auto-Collections",
-                "stars": 281
+                "stars": 281,
+                "topics": [
+                  "films",
+                  "imdb",
+                  "jellyfin",
+                  "letterboxd",
+                  "media",
+                  "movies",
+                  "trakt"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2326,12 +3602,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server",
+                "homepage": null,
                 "id": 1009787793,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T11:57:06Z",
+                "open_issues": 36,
                 "owner": "jon4hz",
                 "repo": "jellysweep",
-                "stars": 249
+                "stars": 249,
+                "topics": [
+                  "cleanup",
+                  "cleanup-tool",
+                  "jellyfin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2342,12 +3627,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)",
+                "homepage": null,
                 "id": 624640104,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-28T18:43:45Z",
+                "open_issues": 5,
                 "owner": "sachinsenal0x64",
                 "repo": "fixarr",
-                "stars": 200
+                "stars": 200,
+                "topics": [
+                  "anime",
+                  "gui-application",
+                  "movie",
+                  "plex",
+                  "renamer",
+                  "renamer-utility",
+                  "tv-series"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2358,12 +3656,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-User Media Cleaner aka MUMC (pronounced Mew-Mick) will go through movies, tv episodes, audio tracks, and audiobooks in your Emby/Jellyfin libraries deleting media items you no longer want.",
+                "homepage": null,
                 "id": 293169109,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-01T03:31:10Z",
+                "open_issues": 6,
                 "owner": "terrelsa13",
                 "repo": "MUMC",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "cleaner",
+                  "emby",
+                  "episode",
+                  "jellyfin",
+                  "jellyseerr",
+                  "lidarr",
+                  "media",
+                  "movie",
+                  "nzbget",
+                  "nzbhydra2",
+                  "ombi",
+                  "played",
+                  "prowlarr",
+                  "radarr",
+                  "readarr",
+                  "sabnzbd",
+                  "server",
+                  "sonarr",
+                  "tv",
+                  "watch"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2374,12 +3698,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI to ensure Jellyfin Direct Play compatibility.",
+                "homepage": "https://parkejunior.github.io/jellycc/",
                 "id": 1214708564,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-15T01:06:11Z",
+                "open_issues": 0,
                 "owner": "parkejunior",
                 "repo": "jellycc-cli",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "cli",
+                  "codec",
+                  "codec-support",
+                  "converter",
+                  "ffmpeg",
+                  "ffprobe",
+                  "jellyfin",
+                  "transcode",
+                  "tui",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2390,12 +3730,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin Easy Metadata Manager (Also called as \"JEMM\") is a free and open-source tool created to help heavy users of Jellyfin Project to manage their instances. The main purpose of JEMM is to make it easier to fill in the metadata fields of library items and folders. ",
+                "homepage": null,
                 "id": 699076981,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-19T21:41:49Z",
+                "open_issues": 3,
                 "owner": "CesarBianchi",
                 "repo": "JellyfinEasyMetadataManager",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-client",
+                  "jellyfin-easy-metadata-manager",
+                  "jellyfin-metadata-manager",
+                  "jemm"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2406,12 +3757,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transcode content from your Jellyfin or Plex Media Server libraries. Dead simple hardware accelerated transcoding without the fuss.",
+                "homepage": null,
                 "id": 977786634,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-14T06:13:11Z",
+                "open_issues": 2,
                 "owner": "cleverdevil",
                 "repo": "squishy",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "ffmpeg",
+                  "jellyfin",
+                  "plex",
+                  "plex-media-server",
+                  "transcoding"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2422,12 +3784,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool for managing Jellyfin watched status, featuring backup/restore capabilities and missing episode detection using TVDB.",
+                "homepage": null,
                 "id": 1153891531,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-07T09:39:58Z",
+                "open_issues": 0,
                 "owner": "Forceu",
                 "repo": "jellyfinmanager",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "jellyfin",
+                  "selfhosted"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -2445,12 +3815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr",
+                "homepage": null,
                 "id": 594484035,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-07T10:22:49Z",
+                "open_issues": 3,
                 "owner": "McCloudS",
                 "repo": "subgen",
-                "stars": 1466
+                "stars": 1466,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2461,12 +3836,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically find and download the right subtitles for your favorite videos!",
+                "homepage": "https://emeric.io/OpenSubtitlesDownload",
                 "id": 2533157,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-05T14:49:39Z",
+                "open_issues": 5,
                 "owner": "emericg",
                 "repo": "OpenSubtitlesDownload",
-                "stars": 690
+                "stars": 690,
+                "topics": [
+                  "download-subtitles",
+                  "nautilus",
+                  "nautilus-extension",
+                  "opensubtitles",
+                  "subtitle-downloader",
+                  "subtitles",
+                  "subtitles-search"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2477,12 +3865,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search and download subtitles directly from Jellyfin using your Bazarr instance.",
+                "homepage": null,
                 "id": 1119837576,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-02T17:08:09Z",
+                "open_issues": 1,
                 "owner": "enoch85",
                 "repo": "bazarr-jellyfin",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "bazarr",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "subtitles"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2493,12 +3891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyfin plugin that OCRs embedded image-based subtitles (VobSub/DVD and PGS/Blu-ray) to SRT files using nOCR pattern matching — pure managed code, Subtitle Edit-compatible databases.",
+                "homepage": null,
                 "id": 1297964843,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-21T00:11:49Z",
+                "open_issues": 0,
                 "owner": "IDisposable",
                 "repo": "jellyfin-plugin-subtitleocr",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -2516,12 +3919,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required.",
+                "homepage": "https://neptunehub.github.io/AudioMuse-AI/",
                 "id": 989499651,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T17:47:19Z",
+                "open_issues": 21,
                 "owner": "NeptuneHub",
                 "repo": "AudioMuse-AI",
-                "stars": 2509
+                "stars": 2509,
+                "topics": [
+                  "clap",
+                  "docker",
+                  "emby",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "k3s",
+                  "kubernetes",
+                  "librosa",
+                  "llm",
+                  "lyrion",
+                  "music",
+                  "navidrome",
+                  "onnx",
+                  "playlist",
+                  "plex",
+                  "self-hosted",
+                  "smart-playlists",
+                  "sonic-analysis"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2532,12 +3959,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A  utility to help you sync playlists from spotify to your jellyfin server",
+                "homepage": null,
                 "id": 892602709,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-10T07:54:31Z",
+                "open_issues": 34,
                 "owner": "kamilkosek",
                 "repo": "jellyplist",
-                "stars": 375
+                "stars": 375,
+                "topics": [
+                  "jellyfin",
+                  "playlist",
+                  "spotify",
+                  "sync"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2548,12 +3985,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Take your Jellyfin music offline on MP3 players and storage devices",
+                "homepage": null,
                 "id": 1180189906,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T07:09:10Z",
+                "open_issues": 1,
                 "owner": "orainlabs",
                 "repo": "jellytunes",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "desktop-app",
+                  "electron",
+                  "flac-to-mp3",
+                  "jellyfin",
+                  "music",
+                  "offline-music",
+                  "open-source",
+                  "sync",
+                  "usb"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2564,12 +4016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1094574754,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-12-17T19:42:46Z",
+                "open_issues": 0,
                 "owner": "akhilmulpurii",
                 "repo": "jellyfin-theme-music-manager",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2580,12 +4037,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of my MusicBrainz, theaudiodb, themoviedb, mediux and yandexmusic Userscripts",
+                "homepage": null,
                 "id": 963198768,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T20:32:32Z",
+                "open_issues": 0,
                 "owner": "Druidblack",
                 "repo": "MusicBrainz-UserScripts",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "harmony",
+                  "jellyfin",
+                  "mediux",
+                  "musicbrainz",
+                  "theaudiodb",
+                  "themoviedb-org",
+                  "userscript",
+                  "userscripts",
+                  "yandexmusic"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -2603,12 +4075,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight tool to automate downloading and metadata generation with yt-dlp",
+                "homepage": "https://ytdl-sub.readthedocs.io",
                 "id": 404588188,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T03:04:20Z",
+                "open_issues": 126,
                 "owner": "jmbannon",
                 "repo": "ytdl-sub",
-                "stars": 2927
+                "stars": 2927,
+                "topics": [
+                  "emby",
+                  "jellyfin",
+                  "kodi",
+                  "lidarr",
+                  "nfo",
+                  "plex",
+                  "radarr",
+                  "servarr",
+                  "sonarr",
+                  "youtube",
+                  "yt-dlp",
+                  "yt-dlp-wrapper",
+                  "ytdl"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2619,12 +4110,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.",
+                "homepage": "https://github.com/fe80Grau/ytdlp2STRM",
                 "id": 612566482,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-20T22:37:05Z",
+                "open_issues": 19,
                 "owner": "fe80Grau",
                 "repo": "ytdlp2STRM",
-                "stars": 491
+                "stars": 491,
+                "topics": [
+                  "crunchyroll",
+                  "ffmpeg",
+                  "flask",
+                  "jellyfin",
+                  "python",
+                  "strm",
+                  "twitch",
+                  "youtube",
+                  "youtube-dl",
+                  "yt-dlp"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2635,12 +4142,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trailarr is a self-hosted app to download and manage trailers for your media libraries.",
+                "homepage": "https://nandyalu.github.io/trailarr/",
                 "id": 768813127,
                 "language": "Python",
-                "last_commit": "2026-08-28T18:34:01Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:46:32Z",
+                "open_issues": 6,
                 "owner": "nandyalu",
                 "repo": "trailarr",
-                "stars": 451
+                "stars": 451,
+                "topics": [
+                  "plex",
+                  "radarr",
+                  "sonarrr",
+                  "trailers",
+                  "video-conversion"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2651,12 +4169,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python script to construct a Jellyfin ebook library from a Calibre library. -Linux version",
+                "homepage": null,
                 "id": 723855361,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T03:34:39Z",
+                "open_issues": 0,
                 "owner": "shawn61cp",
                 "repo": "calibre2jellyfin",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "calibre",
+                  "jellyfin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2667,12 +4193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Retrieves IMDB trailers of your movies and imports them as background video themes in Jellyfin using .strm files",
+                "homepage": null,
                 "id": 995068953,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-12T21:39:31Z",
+                "open_issues": 6,
                 "owner": "Pukabyte",
                 "repo": "trailerfin",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -2690,12 +4221,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One-click app installer for Samsung TVs, projectors and smart monitors (Tizen) — Jellyfin, Moonlight, and the whole community catalog.",
+                "homepage": "https://www.apps2samsung.com",
                 "id": 982647000,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:50:43Z",
+                "open_issues": 0,
                 "owner": "Apps2Samsung",
                 "repo": "Apps2Samsung",
-                "stars": 1904
+                "stars": 1904,
+                "topics": [
+                  "android",
+                  "installer",
+                  "jellyfin",
+                  "jellyfin-tizen",
+                  "linux",
+                  "macos",
+                  "samsung-tv",
+                  "sdb",
+                  "sideload",
+                  "tizen",
+                  "tizen-studio",
+                  "tizen-tv",
+                  "wgt",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2706,12 +4257,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bring all your Jellyfin servers together",
+                "homepage": null,
                 "id": 1016794837,
                 "language": "Rust",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T11:34:44Z",
+                "open_issues": 29,
                 "owner": "LLukas22",
                 "repo": "Jellyswarrm",
-                "stars": 870
+                "stars": 870,
+                "topics": [
+                  "jellyfin",
+                  "media",
+                  "reverse-proxy"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2722,12 +4282,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.",
+                "homepage": null,
                 "id": 277184094,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-08-03T09:24:11Z",
+                "open_issues": 40,
                 "owner": "Cloudbox",
                 "repo": "autoscan",
-                "stars": 661
+                "stars": 661,
+                "topics": [
+                  "autoscan",
+                  "emby",
+                  "plex"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2738,12 +4307,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr",
+                "homepage": "https://autopulse.dancodes.online",
                 "id": 849573960,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-23T09:06:52Z",
+                "open_issues": 9,
                 "owner": "dan-online",
                 "repo": "autopulse",
-                "stars": 539
+                "stars": 539,
+                "topics": [
+                  "autoscan",
+                  "emby",
+                  "jellyfin",
+                  "plex",
+                  "servarr"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2754,12 +4334,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities",
+                "homepage": "https://xsrv.readthedocs.io",
                 "id": 67309601,
                 "language": "Jinja",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:02:11Z",
+                "open_issues": 0,
                 "owner": "nodiscc",
                 "repo": "xsrv",
-                "stars": 405
+                "stars": 405,
+                "topics": [
+                  "ansible",
+                  "debian",
+                  "gitea",
+                  "grafana",
+                  "jellyfin",
+                  "jitsi",
+                  "ldap",
+                  "libvirt",
+                  "mumble",
+                  "nextcloud",
+                  "samba",
+                  "searxng",
+                  "self-hosted",
+                  "server",
+                  "shaarli",
+                  "transmission",
+                  "tt-rss",
+                  "victoriametrics",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2770,12 +4375,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Jellyfin universal plugin repository",
+                "homepage": null,
                 "id": 1007861226,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-24T01:14:22Z",
+                "open_issues": 0,
                 "owner": "0belous",
                 "repo": "Jellyfin-Universal-Plugin-Repo",
-                "stars": 254
+                "stars": 254,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2786,12 +4399,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.",
+                "homepage": "https://ipv6.rs/cloudseeder",
                 "id": 792793979,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-10T03:25:37Z",
+                "open_issues": 7,
                 "owner": "ipv6rslimited",
                 "repo": "cloudseeder",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "homelab",
+                  "selfhosting",
+                  "wizard"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2802,12 +4424,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyman is a set of scripts to install/manage and update the jellyfin-combined tar.gz generic linux package",
+                "homepage": null,
                 "id": 525029545,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-26T09:14:21Z",
+                "open_issues": 0,
                 "owner": "Smiley-McSmiles",
                 "repo": "jellyman",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "bash",
+                  "jellyfin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2818,12 +4448,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI Jellyfin Controller Utility for Linux and Windows",
+                "homepage": null,
                 "id": 528240332,
                 "language": "Rust",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-25T03:34:57Z",
+                "open_issues": 0,
                 "owner": "LSchallot",
                 "repo": "JellyRoller",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "scoop-bucket"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2834,12 +4471,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nix flake to configure Jellyfin declaratively",
+                "homepage": "https://git.spoodythe.one/spoody/declarative-jellyfin",
                 "id": 992116210,
                 "language": "Nix",
+                "license": null,
                 "last_commit": "2026-08-26T17:16:28Z",
+                "open_issues": 2,
                 "owner": "Sveske-Juice",
                 "repo": "declarative-jellyfin",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "flake",
+                  "jellyfin",
+                  "nix",
+                  "nixos"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2850,12 +4497,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jellyhub is a web app that indexes media from multiple Jellyfin servers into a single searchable hub, letting you see which server hosts the content you're looking for.",
+                "homepage": "https://hub.docker.com/r/zigleur/jellyhub",
                 "id": 929558626,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T12:06:01Z",
+                "open_issues": 1,
                 "owner": "Zigl3ur",
                 "repo": "jellyhub",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "docker",
+                  "jellyfin",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2866,12 +4522,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Jellyfin plugin with ML-powered per-user recommendations, watch activity insights, automated media cleanup (trickplay, subtitles, symlinks, .strm), Overseerr/Jellyseerr request management, codec/health statistics, growth trends, trash bin, backup/restore & multi-instance Radarr/Sonarr. 8-tab dashboard, 8 languages.",
+                "homepage": "https://jellyplugins.github.io/jellyfin-helper/",
                 "id": 1205279424,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T13:02:18Z",
+                "open_issues": 0,
                 "owner": "JellyPlugins",
                 "repo": "jellyfin-helper",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "arr-stack",
+                  "backup",
+                  "cleanup",
+                  "dashboard",
+                  "dotnet",
+                  "health-check",
+                  "i18n",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "machinelearning",
+                  "media-server",
+                  "radarr",
+                  "recommendation",
+                  "seerr",
+                  "sonarr",
+                  "statistics",
+                  "strm",
+                  "subtitles",
+                  "symlink",
+                  "trickplay"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2882,12 +4564,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aldertech Dynamic Resource Governor — A kernel-level resource manager for high-density Docker stacks on Raspberry Pi and low-power servers.",
+                "homepage": "https://aldertech.uk",
                 "id": 1168797310,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-07T21:00:08Z",
+                "open_issues": 0,
                 "owner": "jaldertech",
                 "repo": "adrg",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "automation",
+                  "cgroupv2",
+                  "docker",
+                  "homelab",
+                  "jellyfin",
+                  "plex",
+                  "python",
+                  "raspberry-pi",
+                  "resource-management",
+                  "self-hosted",
+                  "server-monitoring",
+                  "sysadmin"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2898,12 +4598,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration",
+                "homepage": null,
                 "id": 952758350,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T12:09:32Z",
+                "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "jellyfin-encoder",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "automation",
+                  "av1",
+                  "docker",
+                  "ffmpeg",
+                  "hacktoberfest",
+                  "hardware-acceleration",
+                  "hevc",
+                  "homelab",
+                  "intel-qsv",
+                  "jellyfin",
+                  "media-management",
+                  "media-server",
+                  "nvidia",
+                  "open-source",
+                  "python",
+                  "self-hosted",
+                  "streaming",
+                  "transcoding",
+                  "video",
+                  "video-encoding"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -2921,12 +4647,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO",
+                "homepage": "https://tunarr.com/",
                 "id": 745191044,
                 "language": "TypeScript",
+                "license": "Zlib",
                 "last_commit": "2026-08-28T20:15:43Z",
+                "open_issues": 191,
                 "owner": "chrisbenincasa",
                 "repo": "tunarr",
-                "stars": 2545
+                "stars": 2545,
+                "topics": [
+                  "emby",
+                  "ffmpeg",
+                  "iptv",
+                  "jellyfin",
+                  "local-streaming",
+                  "media-streaming",
+                  "plex",
+                  "self-hosted",
+                  "streaming",
+                  "tv"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2937,12 +4679,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "etlp - Emby/Jellyfin 调用外部本地播放器，并回传播放记录。适配 Plex。",
+                "homepage": null,
                 "id": 519234600,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T10:06:20Z",
+                "open_issues": 1,
                 "owner": "kjtsune",
                 "repo": "embyToLocalPlayer",
-                "stars": 1423
+                "stars": 1423,
+                "topics": [
+                  "bangumi",
+                  "emby",
+                  "etlp",
+                  "iina",
+                  "jellyfin",
+                  "mpc",
+                  "mpv",
+                  "plex",
+                  "potplayer",
+                  "vlc"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2953,12 +4711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision",
+                "homepage": null,
                 "id": 360938286,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-01-26T20:12:04Z",
+                "open_issues": 33,
                 "owner": "BobHasNoSoul",
                 "repo": "jellyfin-mods",
-                "stars": 824
+                "stars": 824,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2969,12 +4732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An essential collection of Jellyfin Tweaks that you always knew you needed",
+                "homepage": null,
                 "id": 1053146755,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-30T06:42:49Z",
+                "open_issues": 48,
                 "owner": "ranaldsgift",
                 "repo": "KefinTweaks",
-                "stars": 635
+                "stars": 635,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -2985,12 +4753,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create clips from media on your personal media server",
+                "homepage": "https://cliparr.dev/",
                 "id": 1210100679,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T15:15:38Z",
+                "open_issues": 6,
                 "owner": "TechSquidTV",
                 "repo": "Cliparr",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "jellyfin",
+                  "media-server",
+                  "plex",
+                  "radarr",
+                  "self-hosted",
+                  "sonarr",
+                  "video-editing"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3001,12 +4782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Companion Webapp to Jellyfin which enables the creation and sharing of clips from Jellyfin content",
+                "homepage": null,
                 "id": 893137890,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:39:49Z",
+                "open_issues": 18,
                 "owner": "arnolicious",
                 "repo": "jelly-clipper",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3017,12 +4803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jellyfin Remote app",
+                "homepage": null,
                 "id": 1146808412,
                 "language": "Dart",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-27T12:28:33Z",
+                "open_issues": 1,
                 "owner": "eiffelbeef",
                 "repo": "scyphomote",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3033,12 +4824,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display IMDb or JF episode ratings in a heatmap-style grid on Jellyfin series pages using the Jellyfin JavaScript Injector. Drop-down menu to avoid spoilers. Linked to the episode page.",
+                "homepage": null,
                 "id": 1182657911,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T16:49:41Z",
+                "open_issues": 0,
                 "owner": "Damocles-fr",
                 "repo": "jellyfin-imdb-episodes-heatmap-ratings-grid",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "css",
+                  "episode-grid",
+                  "episode-ratings",
+                  "episode-table",
+                  "grid-layout",
+                  "heatmap",
+                  "imdb",
+                  "imdb-heatmap",
+                  "imdb-rating",
+                  "javascript",
+                  "jellyfin",
+                  "jellyfin-javascript-injector",
+                  "jellyfin-plugin",
+                  "jellyfin-web",
+                  "rating-grid",
+                  "ratings-graph",
+                  "series-ratings",
+                  "tv-ratings",
+                  "tv-shows",
+                  "userscript"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3049,12 +4866,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Flask application that sends notifications to Telegram whenever new content (movies, series, seasons, episodes) is added to Jellyfin.",
+                "homepage": null,
                 "id": 686431899,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-07T17:53:51Z",
+                "open_issues": 1,
                 "owner": "Fahmula",
                 "repo": "jellyfin-telegram-notifier",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3065,12 +4887,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MPC-JF ▸ MPC-BE & PotPlayer & MPC-HC & External media player launcher script for Jellyfin Web & Jellyfin Media Player Desktop App (Windows)",
+                "homepage": null,
                 "id": 1202941276,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-31T19:30:34Z",
+                "open_issues": 0,
                 "owner": "Damocles-fr",
                 "repo": "MPC-JF",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-client",
+                  "jellyfin-desktop",
+                  "jellyfin-media-player",
+                  "jellyfin-plugin",
+                  "jellyfin-web",
+                  "launcher",
+                  "madvr",
+                  "madvr-support",
+                  "mediaplayer",
+                  "mpc",
+                  "mpc-be",
+                  "mpc-hc",
+                  "potplayer",
+                  "potplayer-extension",
+                  "script",
+                  "userscript",
+                  "windows",
+                  "windows-11"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3081,12 +4928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Segment Editor for Jellyfin Segment API ",
+                "homepage": null,
                 "id": 1125913933,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T13:36:42Z",
+                "open_issues": 6,
                 "owner": "intro-skipper",
                 "repo": "segment-editor",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3097,12 +4949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play a random Jellyfin item as your screensaver",
+                "homepage": null,
                 "id": 1249165418,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-10T11:49:19Z",
+                "open_issues": 0,
                 "owner": "ndom91",
                 "repo": "jellyfin-random-macos-screensaver",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -3124,12 +4981,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 934959044,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-29T01:18:51Z",
+            "open_issues": 261,
             "owner": "Dispatcharr",
             "repo": "Dispatcharr",
-            "stars": 3896
+            "stars": 3896,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3140,12 +5002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source platform that transforms your personal media library into live, custom TV channels.",
+            "homepage": "https://ersatztv.org/",
             "id": 337278770,
             "language": "C#",
+            "license": "Zlib",
             "last_commit": "2026-08-29T02:32:38Z",
+            "open_issues": 5,
             "owner": "ErsatzTV",
             "repo": "legacy",
-            "stars": 2920
+            "stars": 2920,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3156,12 +5023,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spotify's \"Discover Weekly\" for self-hosted music systems",
+            "homepage": null,
             "id": 716998174,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-11T16:56:00Z",
+            "open_issues": 49,
             "owner": "LumePart",
             "repo": "Explo",
-            "stars": 1867
+            "stars": 1867,
+            "topics": [
+              "airsonic",
+              "emby",
+              "jellyfin",
+              "listenbrainz",
+              "mpd",
+              "music-player-daemon",
+              "navidrome",
+              "plex-media-server",
+              "self-hosted",
+              "subsonic"
+            ]
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3172,12 +5055,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe",
+            "homepage": null,
             "id": 491589510,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-03T15:28:35Z",
+            "open_issues": 6,
             "owner": "Threadfin",
             "repo": "Threadfin",
-            "stars": 1699
+            "stars": 1699,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3188,12 +5078,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scrobble plays from multiple sources to multiple clients",
+            "homepage": "https://docs.multi-scrobbler.app",
             "id": 311688903,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:07:21Z",
+            "open_issues": 30,
             "owner": "FoxxMD",
             "repo": "multi-scrobbler",
-            "stars": 1194
+            "stars": 1194,
+            "topics": [
+              "deezer",
+              "docker",
+              "jellyfin",
+              "koito",
+              "lastfm",
+              "listenbrainz",
+              "maloja",
+              "mopidy",
+              "mpris",
+              "music",
+              "music-assistant",
+              "plex",
+              "scrobble",
+              "self-hosted",
+              "spotify",
+              "subsonic",
+              "tautulli",
+              "youtube-music"
+            ]
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3204,12 +5118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rffmpeg: remote SSH FFmpeg wrapper tool",
+            "homepage": null,
             "id": 216275212,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-03T19:42:58Z",
+            "open_issues": 18,
             "owner": "joshuaboniface",
             "repo": "rffmpeg",
-            "stars": 1068
+            "stars": 1068,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3220,12 +5139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self hosted media tracker for movies, tv shows, video games, books and audiobooks",
+            "homepage": null,
             "id": 449910324,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-20T06:54:13Z",
+            "open_issues": 142,
             "owner": "bonukai",
             "repo": "MediaTracker",
-            "stars": 929
+            "stars": 929,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3236,12 +5160,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self hosted web app to track and rate your watched movies",
+            "homepage": null,
             "id": 332466212,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-08T07:45:47Z",
+            "open_issues": 93,
             "owner": "leepeuker",
             "repo": "movary",
-            "stars": 773
+            "stars": 773,
+            "topics": [
+              "emby",
+              "jellyfin",
+              "letterboxd",
+              "movie",
+              "netflix",
+              "plex",
+              "self-hosted",
+              "tmdb",
+              "trakt-tv"
+            ]
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3257,12 +5196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart PVR for newsgroup and bittorrent users.",
+                "homepage": "https://sonarr.tv",
                 "id": 2465723,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:14:13Z",
+                "open_issues": 96,
                 "owner": "Sonarr",
                 "repo": "Sonarr",
-                "stars": 15306
+                "stars": 15306,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3273,12 +5217,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Movie organizer/manager for usenet and torrent users.",
+                "homepage": "https://radarr.video",
                 "id": 77323220,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T12:12:05Z",
+                "open_issues": 523,
                 "owner": "Radarr",
                 "repo": "Radarr",
-                "stars": 14247
+                "stars": 14247,
+                "topics": [
+                  "bittorrent",
+                  "couchpotato",
+                  "hacktoberfest",
+                  "movie",
+                  "movies",
+                  "nzb",
+                  "torrent",
+                  "usenet"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3289,12 +5247,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
+                "homepage": null,
                 "id": 208294915,
                 "language": "Makefile",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-05T07:37:45Z",
+                "open_issues": 50,
                 "owner": "HaveAGitGat",
                 "repo": "Tdarr",
-                "stars": 4286
+                "stars": 4286,
+                "topics": [
+                  "audio",
+                  "automation",
+                  "ffmpeg",
+                  "handbrake",
+                  "transcode",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             },
@@ -3305,24 +5275,45 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically sync TRaSH Guides to your Sonarr and Radarr instances",
+                "homepage": "https://recyclarr.dev",
                 "id": 336108922,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:11:40Z",
+                "open_issues": 8,
                 "owner": "recyclarr",
                 "repo": "recyclarr",
-                "stars": 2085
+                "stars": 2085,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Locating *Arr services and aggregating them into a single list. Thus, Locatarr.",
+            "homepage": "https://locatarr.github.io/",
             "id": 356400665,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T15:47:48Z",
+            "open_issues": 1,
             "owner": "Locatarr",
             "repo": "locatarr.github.io",
-            "stars": 481
+            "stars": 481,
+            "topics": [
+              "arr",
+              "hacktoberfest",
+              "homelab",
+              "homeserver",
+              "list",
+              "radarr",
+              "self-hosted",
+              "selfhosted",
+              "servarr",
+              "sonarr"
+            ]
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3333,12 +5324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quasarr connects JDownloader with Radarr, Sonarr, Lidarr and Magazarr. It also decrypts links protected by CAPTCHAs.",
+            "homepage": null,
             "id": 838513175,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:10:55Z",
+            "open_issues": 0,
             "owner": "rix1337",
             "repo": "Quasarr",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         },
@@ -3349,12 +5345,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamically manage speeds on torrent clients, with Plex/Jellyfin/Emby intergration.",
+            "homepage": null,
             "id": 815311050,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-17T15:22:11Z",
+            "open_issues": 10,
             "owner": "itschasa",
             "repo": "speedrr",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "jellyfin",
+              "plex",
+              "qbittorrent",
+              "speed-manager",
+              "torrent",
+              "torrenting",
+              "torrents",
+              "upload-speed"
+            ]
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
         }
@@ -3363,15 +5373,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:59.065Z",
+    "last_updated": "2026-08-29T04:12:33.133Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "homepage": null,
       "id": 536260952,
       "language": "Shell",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-23T08:41:49Z",
+      "open_issues": 36,
       "owner": "awesome-jellyfin",
       "repo": "awesome-jellyfin",
-      "stars": 9081
+      "stars": 9081,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "jellyfin"
+      ]
     },
     "original_repository_sha": "8c0e49859e8a81c8d9101182a271a91eb90de262",
     "enhanced_repository": "enhansome/enhansome-jellyfin",
