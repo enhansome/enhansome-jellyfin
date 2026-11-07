@@ -17,11 +17,11 @@
                 "id": 1009499810,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T15:19:44Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-06T18:47:48Z",
+                "open_issues": 20,
                 "owner": "n00bcodr",
                 "repo": "Jellyfin-Enhanced",
-                "stars": 2013,
+                "stars": 2014,
                 "topics": [
                   "jellyfin",
                   "jellyfin-community-plugin",
@@ -47,7 +47,7 @@
                 "open_issues": 44,
                 "owner": "danieladov",
                 "repo": "jellyfin-plugin-skin-manager",
-                "stars": 676,
+                "stars": 677,
                 "topics": [
                   "jellyfin",
                   "skin-manager"
@@ -214,12 +214,37 @@
                 "open_issues": 1,
                 "owner": "n00bcodr",
                 "repo": "Jellyfin-JavaScript-Injector",
-                "stars": 178,
+                "stars": 177,
                 "topics": [
                   "jellyfin",
                   "jellyfin-community-plugin",
                   "jellyfin-plugin",
                   "jellyfin-web"
+                ]
+              },
+              "first_seen": "2026-08-28T04:28:37.602Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SeerrFin",
+              "description": "Discover and request movies and TV shows through Seerr directly from Jellyfin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The best way to discover and request Movies and TV Shows through Seerr directly in Jellyfin.",
+                "homepage": null,
+                "id": 1244687539,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-31T12:02:03Z",
+                "open_issues": 5,
+                "owner": "varunaditya-plus",
+                "repo": "SeerrFin",
+                "stars": 161,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "seerr"
                 ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
@@ -244,31 +269,6 @@
                 "topics": [
                   "jellyfin",
                   "jellyfin-theme"
-                ]
-              },
-              "first_seen": "2026-08-28T04:28:37.602Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SeerrFin",
-              "description": "Discover and request movies and TV shows through Seerr directly from Jellyfin.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The best way to discover and request Movies and TV Shows through Seerr directly in Jellyfin.",
-                "homepage": null,
-                "id": 1244687539,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-31T12:02:03Z",
-                "open_issues": 5,
-                "owner": "varunaditya-plus",
-                "repo": "SeerrFin",
-                "stars": 159,
-                "topics": [
-                  "jellyfin",
-                  "jellyfin-plugin",
-                  "seerr"
                 ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
@@ -353,8 +353,8 @@
                 "id": 1179176738,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:05:36Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-06T04:08:48Z",
+                "open_issues": 11,
                 "owner": "ZL154",
                 "repo": "AchievementBadges_for_Jellyfin",
                 "stars": 83,
@@ -431,7 +431,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-10T20:16:51Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "K3ntas",
                 "repo": "jellyfin-plugin-ratings",
                 "stars": 66,
@@ -555,7 +555,7 @@
                 "id": 1313608428,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T10:19:53Z",
+                "last_commit": "2026-11-06T10:49:21Z",
                 "open_issues": 2,
                 "owner": "bardesss",
                 "repo": "customcoverart",
@@ -687,7 +687,7 @@
                 "open_issues": 5,
                 "owner": "jyourstone",
                 "repo": "jellyfin-smartlists-plugin",
-                "stars": 399,
+                "stars": 401,
                 "topics": [
                   "collections-manager",
                   "dynamic-collections",
@@ -715,7 +715,7 @@
                 "open_issues": 16,
                 "owner": "KeksBombe",
                 "repo": "jellyfin-plugin-auto-collections",
-                "stars": 314,
+                "stars": 315,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
@@ -732,7 +732,7 @@
                 "id": 1019059369,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-29T18:17:17Z",
+                "last_commit": "2026-11-06T09:01:58Z",
                 "open_issues": 2,
                 "owner": "NeptuneHub",
                 "repo": "audiomuse-ai-plugin",
@@ -967,7 +967,7 @@
                 "open_issues": 11,
                 "owner": "intro-skipper",
                 "repo": "intro-skipper",
-                "stars": 2902,
+                "stars": 2901,
                 "topics": [
                   "jellyfin",
                   "jellyfin-mediasegment-provider",
@@ -992,7 +992,7 @@
                 "open_issues": 30,
                 "owner": "CherryFloors",
                 "repo": "jellyfin-plugin-cinemamode",
-                "stars": 166,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
@@ -1009,7 +1009,7 @@
                 "id": 1149978451,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T22:28:37Z",
+                "last_commit": "2026-11-06T22:11:58Z",
                 "open_issues": 2,
                 "owner": "TheIntroDB",
                 "repo": "jellyfin-plugin",
@@ -1106,7 +1106,7 @@
                 "id": 1140554592,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-05T06:52:06Z",
+                "last_commit": "2026-11-06T18:02:07Z",
                 "open_issues": 1,
                 "owner": "voc0der",
                 "repo": "jellyfin-plugin-transcode-guard",
@@ -1252,7 +1252,7 @@
                 "id": 1045574930,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-04T23:58:06Z",
+                "last_commit": "2026-11-06T21:03:45Z",
                 "open_issues": 3,
                 "owner": "lostb1t",
                 "repo": "Gelato",
@@ -1324,8 +1324,8 @@
                 "id": 1152524572,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T22:34:50Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-06T23:03:55Z",
+                "open_issues": 9,
                 "owner": "Moonfin-Client",
                 "repo": "Plugin",
                 "stars": 460,
@@ -1346,7 +1346,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-11T00:17:47Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ShokoAnime",
                 "repo": "Shokofin",
                 "stars": 331,
@@ -1394,8 +1394,8 @@
                 "id": 356335727,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-01T13:56:16Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-06T08:16:14Z",
+                "open_issues": 17,
                 "owner": "lyarenei",
                 "repo": "jellyfin-plugin-listenbrainz",
                 "stars": 222,
@@ -1467,7 +1467,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-29T22:18:33Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "kennethsible",
                 "repo": "jellyfin-rpc",
                 "stars": 114,
@@ -1550,6 +1550,36 @@
             },
             {
               "node_type": "item",
+              "title": "RK Simkl Scrobbler",
+              "description": "Scrobbles what each Jellyfin user watches to Simkl in real time, with self-service account linking and an optional two-way history sync.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Real-time Simkl scrobbling for Jellyfin — every user links their own Simkl account, with optional two-way history sync. Runs on Jellyfin 10.11 and 12.",
+                "homepage": "https://romskidd.github.io/jellyfin-plugin-simkl-scrobbler/",
+                "id": 1247040875,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-01T09:58:16Z",
+                "open_issues": 1,
+                "owner": "romskidd",
+                "repo": "jellyfin-plugin-simkl-scrobbler",
+                "stars": 12,
+                "topics": [
+                  "dotnet",
+                  "jellyfin",
+                  "jellyfin-plugin",
+                  "media-server",
+                  "scrobbler",
+                  "scrobbling",
+                  "simkl",
+                  "watch-history"
+                ]
+              },
+              "first_seen": "2026-10-25T22:48:21.783Z"
+            },
+            {
+              "node_type": "item",
               "title": "Jellyfin.Plugin.JF_To_Stash_Sync",
               "description": "Synchronizes viewing activity with Stash.",
               "children": [],
@@ -1572,36 +1602,6 @@
                 ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RK Simkl Scrobbler",
-              "description": "Scrobbles what each Jellyfin user watches to Simkl in real time, with self-service account linking and an optional two-way history sync.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Real-time Simkl scrobbling for Jellyfin — every user links their own Simkl account, with optional two-way history sync. Runs on Jellyfin 10.11 and 12.",
-                "homepage": "https://romskidd.github.io/jellyfin-plugin-simkl-scrobbler/",
-                "id": 1247040875,
-                "language": "C#",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-01T09:58:16Z",
-                "open_issues": 1,
-                "owner": "romskidd",
-                "repo": "jellyfin-plugin-simkl-scrobbler",
-                "stars": 11,
-                "topics": [
-                  "dotnet",
-                  "jellyfin",
-                  "jellyfin-plugin",
-                  "media-server",
-                  "scrobbler",
-                  "scrobbling",
-                  "simkl",
-                  "watch-history"
-                ]
-              },
-              "first_seen": "2026-10-25T22:48:21.783Z"
             }
           ],
           "description": null,
@@ -1810,11 +1810,11 @@
                 "id": 1209740432,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:02:43Z",
+                "last_commit": "2026-11-06T04:09:56Z",
                 "open_issues": 23,
                 "owner": "ZL154",
                 "repo": "JellyfinSecurity",
-                "stars": 326,
+                "stars": 325,
                 "topics": [
                   "authentication",
                   "csharp",
@@ -2004,11 +2004,11 @@
                 "id": 1110874237,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T22:20:01Z",
+                "last_commit": "2026-11-06T20:49:13Z",
                 "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "whisper-subs",
-                "stars": 122,
+                "stars": 124,
                 "topics": [
                   "accessibility",
                   "ai",
@@ -2109,8 +2109,8 @@
                 "id": 1109439648,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T13:11:16Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-06T15:27:27Z",
+                "open_issues": 12,
                 "owner": "CatNoir2006",
                 "repo": "jellyfin-plugin-MediathekViewDL",
                 "stars": 88,
@@ -2158,7 +2158,7 @@
                 "open_issues": 0,
                 "owner": "jyourstone",
                 "repo": "jellyfin-musictags-plugin",
-                "stars": 64,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
@@ -2273,7 +2273,7 @@
                 "id": 1167556867,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T03:20:20Z",
+                "last_commit": "2026-11-06T20:34:15Z",
                 "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "smart-covers",
@@ -2315,7 +2315,7 @@
                 "id": 1128182141,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T18:28:27Z",
+                "last_commit": "2026-11-06T20:18:41Z",
                 "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "quality-gate",
@@ -2361,7 +2361,7 @@
                 "open_issues": 8,
                 "owner": "mugurc",
                 "repo": "jellyfin-plugin-pre-transcode",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -2485,7 +2485,7 @@
                 "open_issues": 43,
                 "owner": "ankenyr",
                 "repo": "jellyfin-youtube-metadata-plugin",
-                "stars": 796,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
@@ -2668,7 +2668,7 @@
                 "id": 1167669124,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-05T06:54:47Z",
+                "last_commit": "2026-11-06T18:03:21Z",
                 "open_issues": 2,
                 "owner": "voc0der",
                 "repo": "jellyfin-plugin-imdb-ratings",
@@ -2861,11 +2861,11 @@
                 "id": 751781457,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T20:06:55Z",
+                "last_commit": "2026-11-06T19:20:10Z",
                 "open_issues": 10,
                 "owner": "fscorrupt",
                 "repo": "posterizarr",
-                "stars": 942,
+                "stars": 943,
                 "topics": [
                   "arr",
                   "assets",
@@ -2890,7 +2890,7 @@
                 "open_issues": 26,
                 "owner": "TitleCardMaker",
                 "repo": "TitleCardMaker",
-                "stars": 864,
+                "stars": 865,
                 "topics": [
                   "docker",
                   "emby",
@@ -3106,11 +3106,11 @@
                 "id": 467856408,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T21:08:10Z",
-                "open_issues": 406,
+                "last_commit": "2026-11-06T18:28:23Z",
+                "open_issues": 409,
                 "owner": "seerr-team",
                 "repo": "seerr",
-                "stars": 13133,
+                "stars": 13141,
                 "topics": [
                   "docker",
                   "emby",
@@ -3138,7 +3138,7 @@
                 "id": 656912696,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-05T22:59:30Z",
+                "last_commit": "2026-11-06T23:05:26Z",
                 "open_issues": 53,
                 "owner": "aleksilassila",
                 "repo": "reiverr",
@@ -3207,10 +3207,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-22T11:19:11Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "m3sserstudi0s",
                 "repo": "swiparr",
-                "stars": 803,
+                "stars": 802,
                 "topics": [
                   "arr",
                   "home-lab",
@@ -3236,7 +3236,7 @@
                 "open_issues": 47,
                 "owner": "markbeep",
                 "repo": "AudioBookRequest",
-                "stars": 724,
+                "stars": 725,
                 "topics": [
                   "audiobook",
                   "audiobookshelf",
@@ -3297,7 +3297,7 @@
                 "id": 1063622852,
                 "language": "JavaScript",
                 "license": "Unlicense",
-                "last_commit": "2026-10-26T11:26:51Z",
+                "last_commit": "2026-11-06T18:08:12Z",
                 "open_issues": 5,
                 "owner": "openVESSL",
                 "repo": "Anchorr",
@@ -3480,7 +3480,7 @@
                 "open_issues": 188,
                 "owner": "CyferShepard",
                 "repo": "Jellystat",
-                "stars": 2504,
+                "stars": 2503,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
@@ -3501,7 +3501,7 @@
                 "open_issues": 0,
                 "owner": "arabcoders",
                 "repo": "watchstate",
-                "stars": 1610,
+                "stars": 1609,
                 "topics": [
                   "backup",
                   "docker",
@@ -3530,7 +3530,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-04T20:50:28Z",
-                "open_issues": 34,
+                "open_issues": 36,
                 "owner": "luigi311",
                 "repo": "JellyPlex-Watched",
                 "stars": 1063,
@@ -3551,10 +3551,10 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-09-14T14:22:18Z",
-                "open_issues": 152,
+                "open_issues": 153,
                 "owner": "fredrikburmester",
                 "repo": "streamystats",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "jellyfin",
                   "nextjs",
@@ -3643,11 +3643,11 @@
                 "id": 1254690927,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-05T22:58:58Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-06T09:51:05Z",
+                "open_issues": 1,
                 "owner": "Lasikiewicz",
                 "repo": "plekt",
-                "stars": 64,
+                "stars": 66,
                 "topics": [
                   "docker",
                   "emby",
@@ -3730,11 +3730,11 @@
                 "id": 535751429,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T10:58:19Z",
+                "last_commit": "2026-11-06T10:54:24Z",
                 "open_issues": 90,
                 "owner": "wizarrrr",
                 "repo": "wizarr",
-                "stars": 3279,
+                "stars": 3278,
                 "topics": [
                   "emby",
                   "inviter",
@@ -3907,7 +3907,7 @@
                 "id": 799435307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T06:56:49Z",
+                "last_commit": "2026-11-06T03:04:42Z",
                 "open_issues": 43,
                 "owner": "sureshfizzy",
                 "repo": "CineSync",
@@ -3957,8 +3957,8 @@
                 "id": 1009787793,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-04T01:03:15Z",
-                "open_issues": 46,
+                "last_commit": "2026-11-06T04:07:20Z",
+                "open_issues": 47,
                 "owner": "jon4hz",
                 "repo": "jellysweep",
                 "stars": 260,
@@ -4228,7 +4228,7 @@
                 "open_issues": 0,
                 "owner": "enoch85",
                 "repo": "bazarr-jellyfin",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "bazarr",
                   "jellyfin",
@@ -4255,7 +4255,9 @@
                 "owner": "Schwponaco-org",
                 "repo": "lapse-jellyfin-plugin",
                 "stars": 65,
-                "topics": []
+                "topics": [
+                  "lapse"
+                ]
               },
               "first_seen": "2026-10-02T23:59:42.217Z"
             },
@@ -4324,7 +4326,7 @@
                 "open_issues": 28,
                 "owner": "NeptuneHub",
                 "repo": "AudioMuse-AI",
-                "stars": 2901,
+                "stars": 2902,
                 "topics": [
                   "clap",
                   "docker",
@@ -4364,7 +4366,7 @@
                 "open_issues": 2,
                 "owner": "LizardByte",
                 "repo": "Themerr",
-                "stars": 97,
+                "stars": 99,
                 "topics": [
                   "csharp",
                   "docker",
@@ -4441,7 +4443,7 @@
                 "id": 963198768,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-03T20:32:32Z",
+                "last_commit": "2026-11-06T20:27:26Z",
                 "open_issues": 0,
                 "owner": "Druidblack",
                 "repo": "MusicBrainz-UserScripts",
@@ -4483,7 +4485,7 @@
                 "open_issues": 126,
                 "owner": "jmbannon",
                 "repo": "ytdl-sub",
-                "stars": 3016,
+                "stars": 3027,
                 "topics": [
                   "emby",
                   "jellyfin",
@@ -4546,7 +4548,7 @@
                 "id": 768813127,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T00:37:59Z",
+                "last_commit": "2026-11-06T07:17:50Z",
                 "open_issues": 7,
                 "owner": "nandyalu",
                 "repo": "trailarr",
@@ -4577,7 +4579,7 @@
                 "open_issues": 0,
                 "owner": "shawn61cp",
                 "repo": "calibre2jellyfin",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "calibre",
                   "jellyfin"
@@ -4625,11 +4627,11 @@
                 "id": 1105674960,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-06T00:21:46Z",
+                "last_commit": "2026-11-06T23:52:53Z",
                 "open_issues": 3,
                 "owner": "connorgallopo",
                 "repo": "Tracearr",
-                "stars": 2752,
+                "stars": 2736,
                 "topics": [
                   "docker",
                   "emby",
@@ -4667,11 +4669,11 @@
                 "id": 982647000,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-05T23:49:02Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-06T21:38:45Z",
+                "open_issues": 2,
                 "owner": "Apps2Samsung",
                 "repo": "Apps2Samsung",
-                "stars": 2520,
+                "stars": 2527,
                 "topics": [
                   "android",
                   "android-app",
@@ -4710,10 +4712,10 @@
                 "language": "Rust",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-03T19:54:47Z",
-                "open_issues": 39,
+                "open_issues": 38,
                 "owner": "LLukas22",
                 "repo": "Jellyswarrm",
-                "stars": 963,
+                "stars": 964,
                 "topics": [
                   "jellyfin",
                   "media",
@@ -4850,8 +4852,8 @@
                 "id": 1304435458,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T17:46:21Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-06T20:15:42Z",
+                "open_issues": 4,
                 "owner": "JellyGlance",
                 "repo": "Server",
                 "stars": 138,
@@ -4894,7 +4896,7 @@
                 "open_issues": 1,
                 "owner": "LSchallot",
                 "repo": "JellyRoller",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "scoop-bucket"
                 ]
@@ -4939,7 +4941,7 @@
                 "id": 1205279424,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T21:22:58Z",
+                "last_commit": "2026-11-06T12:29:27Z",
                 "open_issues": 1,
                 "owner": "JellyPlugins",
                 "repo": "jellyfin-helper",
@@ -5006,7 +5008,7 @@
                 "id": 952758350,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T12:04:33Z",
+                "last_commit": "2026-11-06T21:03:16Z",
                 "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "quality-gate-encoder",
@@ -5089,11 +5091,11 @@
                 "id": 745191044,
                 "language": "TypeScript",
                 "license": "Zlib",
-                "last_commit": "2026-11-05T21:27:58Z",
-                "open_issues": 195,
+                "last_commit": "2026-11-07T00:10:24Z",
+                "open_issues": 196,
                 "owner": "chrisbenincasa",
                 "repo": "tunarr",
-                "stars": 2706,
+                "stars": 2711,
                 "topics": [
                   "emby",
                   "ffmpeg",
@@ -5125,7 +5127,7 @@
                 "open_issues": 1,
                 "owner": "kjtsune",
                 "repo": "embyToLocalPlayer",
-                "stars": 1462,
+                "stars": 1460,
                 "topics": [
                   "bangumi",
                   "emby",
@@ -5195,8 +5197,8 @@
                 "id": 1210100679,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T17:33:16Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-06T23:35:25Z",
+                "open_issues": 12,
                 "owner": "TechSquidTV",
                 "repo": "Cliparr",
                 "stars": 218,
@@ -5407,11 +5409,11 @@
             "id": 934959044,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T20:28:05Z",
-            "open_issues": 292,
+            "last_commit": "2026-11-07T00:00:48Z",
+            "open_issues": 293,
             "owner": "Dispatcharr",
             "repo": "Dispatcharr",
-            "stars": 4475,
+            "stars": 4477,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
@@ -5428,11 +5430,11 @@
             "id": 337278770,
             "language": "C#",
             "license": "Zlib",
-            "last_commit": "2026-11-05T16:46:10Z",
+            "last_commit": "2026-11-06T21:03:57Z",
             "open_issues": 0,
             "owner": "ErsatzTV",
             "repo": "legacy",
-            "stars": 3034,
+            "stars": 3035,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
@@ -5453,7 +5455,7 @@
             "open_issues": 46,
             "owner": "LumePart",
             "repo": "Explo",
-            "stars": 2071,
+            "stars": 2073,
             "topics": [
               "airsonic",
               "emby",
@@ -5485,7 +5487,7 @@
             "open_issues": 8,
             "owner": "Threadfin",
             "repo": "Threadfin",
-            "stars": 1760,
+            "stars": 1761,
             "topics": [
               "hacktoberfest"
             ]
@@ -5504,11 +5506,11 @@
             "id": 311688903,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T21:55:21Z",
+            "last_commit": "2026-11-06T17:14:56Z",
             "open_issues": 27,
             "owner": "FoxxMD",
             "repo": "multi-scrobbler",
-            "stars": 1300,
+            "stars": 1301,
             "topics": [
               "deezer",
               "docker",
@@ -5548,7 +5550,7 @@
             "open_issues": 143,
             "owner": "bonukai",
             "repo": "MediaTracker",
-            "stars": 935,
+            "stars": 934,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
@@ -5566,7 +5568,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-05T21:45:23Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "leepeuker",
             "repo": "movary",
             "stars": 790,
@@ -5602,10 +5604,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-03T04:10:43Z",
-                "open_issues": 84,
+                "open_issues": 90,
                 "owner": "Sonarr",
                 "repo": "Sonarr",
-                "stars": 17581,
+                "stars": 17587,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
@@ -5622,11 +5624,11 @@
                 "id": 77323220,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-04T17:07:04Z",
+                "last_commit": "2026-11-06T16:47:41Z",
                 "open_issues": 796,
                 "owner": "Radarr",
                 "repo": "Radarr",
-                "stars": 14729,
+                "stars": 14730,
                 "topics": [
                   "bittorrent",
                   "couchpotato",
@@ -5656,7 +5658,7 @@
                 "open_issues": 54,
                 "owner": "HaveAGitGat",
                 "repo": "Tdarr",
-                "stars": 4384,
+                "stars": 4386,
                 "topics": [
                   "audio",
                   "automation",
@@ -5680,12 +5682,21 @@
                 "id": 336108922,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:59:08Z",
+                "last_commit": "2026-11-06T03:23:35Z",
                 "open_issues": 20,
                 "owner": "recyclarr",
                 "repo": "recyclarr",
                 "stars": 2150,
-                "topics": []
+                "topics": [
+                  "cli",
+                  "dotnet",
+                  "radarr",
+                  "recyclarr",
+                  "self-hosted",
+                  "servarr",
+                  "sonarr",
+                  "trash-guides"
+                ]
               },
               "first_seen": "2026-08-28T04:28:37.602Z"
             }
@@ -5729,11 +5740,11 @@
             "id": 838513175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T23:45:01Z",
+            "last_commit": "2026-11-06T19:29:19Z",
             "open_issues": 1,
             "owner": "rix1337",
             "repo": "Quasarr",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:37.602Z"
@@ -5773,7 +5784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:08:02.165Z",
+    "last_updated": "2026-11-07T00:20:21.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
@@ -5782,10 +5793,10 @@
       "language": "Go Template",
       "license": "CC0-1.0",
       "last_commit": "2026-11-05T12:49:15Z",
-      "open_issues": 53,
+      "open_issues": 54,
       "owner": "awesome-jellyfin",
       "repo": "awesome-jellyfin",
-      "stars": 9803,
+      "stars": 9808,
       "topics": [
         "awesome",
         "awesome-list",
